@@ -13,29 +13,29 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Cody Winton
-email: cody@codywinton.com
-tagline: Developer | CEO | Creative
+title: Sarah Winton Design
+email: sarah@sarahwintondesign.com
+tagline: Telling Stories and Creating Beauty
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a multi-stack dev & creative problem-solver. Follow me anywhere @codytwinton
+  Graphic Designer in Birmingham, AL
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://codywinton.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://sarahwintondesign.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 current-work:
   title: Current Work
-  link: "http://credntia.com"
+  link: "http://emilywellsdesign.com"
 
 contact-me:
   title: Contact Me
-  link: "mailto:cody@codywinton.com"
+  link: "mailto:sarah@sarahwintondesign.com"
 
 social:
-  facebook: codytwinton
-  twitter: codytwinton
-  instagram: codytwinton
-  medium: codytwinton
-  linked-in: codytwinton
-  github: codytwinton
+  facebook: sarahwintondesign
+  twitter: sarahwinton
+  instagram: sarahwintondesign
+  medium: sarahwinton
+  linked-in: sarah-winton
+  github: sarahwintondesign
 
 # Build settings
 markdown: kramdown
