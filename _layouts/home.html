@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="info position-relative">
+	<div class="content pin-middle-center">
+
+		<h6 class="subheading">{{ site.tagline | escape }}</h6>
+		<h1 class="logo">{{ site.title | escape }}</h1>
+
+		{% include social.html %}
+
+		{{ content }}
+
+		<nav class="buttons">
+			<a href={{ site.current-work.link | escape }} class="button" target="_blank">{{ site.current-work.title }}</a>
+			<a href={{ site.contact-me.link | escape }} class="button">{{ site.contact-me.title }}</a>
+		</nav>
+
+	</div>
+</div>
+
+<figure class="hero" style="background: url('/assets/images/hero.jpg');"></figure>
