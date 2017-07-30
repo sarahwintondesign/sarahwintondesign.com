@@ -1,6 +1,6 @@
 ---
 title: Sarah Winton Design
-timezone: UTC
+timezone: America/Chicago
 collections:
   posts:
     title: Posts
@@ -8,13 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
+url: http://sarahwintondesign.com
 email: sarah@sarahwintondesign.com
-tagline: Telling Stories and Creating Beauty
 description: 'Graphic Designer in Birmingham, AL
 
 '
-baseurl: 
-url: http://sarahwintondesign.com
+tagline: Telling Stories and Creating Beauty
 current-work:
   title: Current Work
   link: http://emilywellsdesign.com
@@ -28,6 +27,7 @@ social:
   medium: sarahwinton
   linked-in: sarah-winton
   github: sarahwintondesign
-markdown: kramdown
 plugins:
 - jekyll-feed
+baseurl: 
+markdown: kramdown
