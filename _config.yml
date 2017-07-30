@@ -15,7 +15,7 @@ defaults:
   values:
     layout: page
     subtitle: 
-    hero_image: /uploads/hero.jpg
+    hero_image: "/uploads/hero.jpg"
 - scope:
     path: ''
     type: posts
