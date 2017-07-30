@@ -10,6 +10,8 @@ layout: default
 	</div>
 </div>
 
-<a href="{{ "/" | relative_url }}">
-	<figure class="hero" style="background: url('/uploads/hero.jpg');"></figure>
-</a>
+<figure class="hero">
+	<a href="{{ "/" | relative_url }}">
+		<img class="logo" src="{{ page.hero_image | relative_url }}" alt="{{ site.title | escape }} Logo">
+	</a>
+</figure>
