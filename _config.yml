@@ -15,7 +15,6 @@ defaults:
   values:
     layout: page
     subtitle: 
-    hero_image: "/uploads/hero.jpg"
 - scope:
     path: ''
     type: posts
@@ -29,7 +28,7 @@ description: 'Graphic Designer in Birmingham, AL
 
 '
 google_analytics:
-  prod_key: testing
+  prod_key: UA-103655965-1
   staging_key: testing
 social:
   facebook: sarahwintondesign
