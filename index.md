@@ -1,5 +1,6 @@
 ---
 title: Sarah Winton Design
+position: 1
 subtitle: Telling Stories and Creating Beauty
 buttons:
 - title: Current Work
