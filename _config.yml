@@ -8,18 +8,29 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+    subtitle: 
+    hero_image: /uploads/hero.jpg
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    subtitle: 
 url: http://sarahwintondesign.com
 email: sarah@sarahwintondesign.com
 description: 'Graphic Designer in Birmingham, AL
 
 '
-tagline: Telling Stories and Creating Beauty
-current-work:
-  title: Current Work
-  link: http://emilywellsdesign.com
-contact-me:
-  title: Contact Me
-  link: mailto:sarah@sarahwintondesign.com
+google_analytics:
+  prod_key: testing
+  staging_key: testing
 social:
   facebook: sarahwintondesign
   twitter: sarahwinton
@@ -27,7 +38,9 @@ social:
   medium: sarahwinton
   linked-in: sarah-winton
   github: sarahwintondesign
-plugins:
-- jekyll-feed
 baseurl: 
 markdown: kramdown
+permalink: pretty
+gems:
+- jekyll-feed
+- jekyll-redirect-from
