@@ -1,23 +1,20 @@
 ---
-layout: default
+layout: page
 ---
 
-<div class="info position-relative">
-	<div class="content pin-middle-center">
+{% include social.html %}
 
-		<h6 class="subheading">{{ site.tagline | escape }}</h6>
-		<h1 class="logo">{{ site.title | escape }}</h1>
+{{ content }}
 
-		{% include social.html %}
-
-		{{ content }}
-
-		<nav class="buttons">
-			<a href={{ site.current-work.link | escape }} class="button" target="_blank">{{ site.current-work.title }}</a>
-			<a href={{ site.contact-me.link | escape }} class="button">{{ site.contact-me.title }}</a>
-		</nav>
-
-	</div>
-</div>
-
-<figure class="hero" style="background: url('/uploads/hero.jpg');"></figure>
+{% if page.buttons %}
+	<nav class="buttons">
+		{% for button in page.buttons %}
+			{% if button.link contains "http" %}
+				{% assign button_target = "_blank" %}
+			{% else %}
+				{% assign button_target = "_self" %}
+			{% endif %}
+			<a href={{ button.link | escape }} class="button" target={{ button_target }}>{{ button.title }}</a>
+		{% endfor %}
+	</nav>
+{% endif %}
