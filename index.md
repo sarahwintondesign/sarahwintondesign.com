@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Sarah Winton Design
 subtitle: Telling Stories and Creating Beauty
 buttons:
 - title: Current Work
