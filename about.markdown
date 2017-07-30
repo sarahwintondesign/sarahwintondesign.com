@@ -1,7 +1,8 @@
 ---
 title: About
-date: 2017-07-22 04:06:00 Z
+date: 2017-07-21 23:06:00 -05:00
 permalink: "/about"
+position: 1
 layout: page
 ---
 
