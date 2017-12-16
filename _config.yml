@@ -26,6 +26,14 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     subtitle: 
+- scope:
+    path: ''
+    type: work
+  values:
+    display_title: 
+    subtitle: 
+    image: 
+    website: 
 url: http://sarahwintondesign.com
 email: sarah@sarahwintondesign.com
 description: 'Graphic Designer in Birmingham, AL
