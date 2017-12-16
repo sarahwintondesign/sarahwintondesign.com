@@ -32,8 +32,10 @@ defaults:
   values:
     display_title: 
     subtitle: 
-    image: 
-    website: 
+    profiles:
+      website: 
+    images: 
+    - 
 url: http://sarahwintondesign.com
 email: sarah@sarahwintondesign.com
 description: 'Graphic Designer in Birmingham, AL
