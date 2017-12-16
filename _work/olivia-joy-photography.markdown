@@ -3,7 +3,7 @@ title: Olivia Joy Photography
 date: 2017-12-16 09:03:00 -06:00
 display_title: 
 subtitle: Wedding, family, and portrait photography
-image: 
+image: "/uploads/olivia-joy-photography.png"
 website: https://www.oliviajoyphotography.com
 ---
 
