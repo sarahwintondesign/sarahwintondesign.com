@@ -5,7 +5,7 @@ display_title:
 subtitle: Wedding, family, and portrait photography
 profiles:
   website: https://www.oliviajoyphotography.com
-images: 
+images:
 - "/uploads/olivia-joy-photography.png"
 ---
 
