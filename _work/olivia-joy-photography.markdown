@@ -5,6 +5,7 @@ display_title:
 subtitle: Wedding, family, and portrait photography
 profiles:
   website: https://www.oliviajoyphotography.com
+  facebook: https://www.facebook.com/oliviajoyphotographybirminghamal/
 images: 
 - "/uploads/olivia-joy-photography.png"
 ---
