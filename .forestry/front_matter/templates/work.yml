@@ -51,7 +51,19 @@ fields:
     description: e.g. https://facebook.com/company-name
   hidden: false
   default: 
+- type: tag_list
+  label: Categories
+  name: categories
+  description: Food, Home Decor, etc.
 - type: image_gallery
   name: images
   label: Gallery
   description: Portfolio of the work done
+- type: textarea
+  name: testimonial
+  label: Testimonial
+  description: Quote from the client
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
