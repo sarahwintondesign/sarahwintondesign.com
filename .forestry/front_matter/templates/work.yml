@@ -7,20 +7,24 @@ hide_body: false
 is_partial: false
 fields:
 - name: title
-  label: Title
+  label: Work Title
   type: text
   hidden: false
   default: ''
+  description: e.g. Meals OnCol
+  config:
+    required: true
 - name: date
   label: Date
   type: datetime
-  hidden: false
+  hidden: true
   default: ''
 - name: subtitle
   label: Subtitle
   type: text
   hidden: false
   default: 
+  description: e.g. Meals for patients
 - name: profiles
   label: Profiles
   type: field_group
@@ -30,16 +34,16 @@ fields:
     type: text
     hidden: false
     default: ''
+    description: e.g. https://company.com
   - name: facebook
     label: Facebook
     type: text
     hidden: false
     default: ''
+    description: e.g. https://facebook.com/company-name
   hidden: false
   default: 
-- name: images
-  label: Images
-  type: list
-  hidden: false
-  default:
-  - 
+- type: image_gallery
+  name: images
+  label: Gallery
+  description: Portfolio of the work done
