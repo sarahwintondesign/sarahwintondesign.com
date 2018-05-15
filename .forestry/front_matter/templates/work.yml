@@ -25,6 +25,14 @@ fields:
   hidden: false
   default: 
   description: e.g. Meals for patients
+- type: textarea
+  name: body
+  label: Description
+  description: Describe the project
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - name: profiles
   label: Profiles
   type: field_group
