@@ -14,25 +14,20 @@ fields:
   description: e.g. Meals OnCol
   config:
     required: true
-- name: date
-  label: Date
-  type: datetime
-  hidden: true
-  default: ''
 - name: subtitle
   label: Subtitle
   type: text
   hidden: false
   default: 
   description: e.g. Meals for patients
-- type: textarea
-  name: body
-  label: Description
-  description: Describe the project
+- name: date
+  label: Work Date
+  type: datetime
+  hidden: false
+  default: ''
+  description: When did this project complete?
   config:
-    wysiwyg: true
-    schema:
-      format: markdown
+    time_format: " "
 - type: tag_list
   label: Categories
   name: categories
