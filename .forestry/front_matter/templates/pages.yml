@@ -11,21 +11,15 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: permalink
-  label: Permalink
-  type: text
-  hidden: false
-  default: ''
-- name: position
-  label: Position
-  type: text
-  hidden: false
-  default: ''
+  description: e.g. About Me
+  config:
+    required: true
 - name: subtitle
   label: Subtitle
   type: text
   hidden: false
   default: 
+  description: e.g. My story begins...
 - name: buttons
   label: Buttons
   type: field_group_list
@@ -35,20 +29,20 @@ fields:
     type: text
     hidden: false
     default: ''
-  - name: link
-    label: Link
+    config:
+      required: true
+    description: e.g. Current Work
+  - name: url
+    label: URL
     type: text
     hidden: false
     default: ''
+    config:
+      required: true
   hidden: false
   default: ''
-- name: layout
-  label: Layout
-  type: text
-  hidden: false
-  default: page
-- name: hero_image
-  label: Hero image
-  type: text
-  hidden: false
-  default: "/uploads/hero.jpg"
+  config:
+    labelField: title
+- type: file
+  name: hero_image
+  label: Hero Image
