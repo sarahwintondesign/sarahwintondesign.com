@@ -61,3 +61,8 @@ fields:
   description: Website, Facebook, etc.
   config:
     labelField: title
+  default:
+  - title: Website
+    url: 
+  - title: Facebook
+    url: 
