@@ -53,6 +53,7 @@ fields:
     label: Title
     config:
       required: true
+    default: Website
   - type: text
     name: url
     label: URL
