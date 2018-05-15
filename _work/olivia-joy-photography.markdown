@@ -7,7 +7,6 @@ profiles:
   facebook: https://www.facebook.com/oliviajoyphotographybirminghamal/
 images:
 - "/uploads/2018/05/15/olivia-joy-photography.png"
-- "/uploads/olivia-joy-photography.png"
 ---
 
 Olivia J. Morgan is a Birmingham Wedding, Family & Portrait film-inspired photographer providing clients a custom, full-service experience.
