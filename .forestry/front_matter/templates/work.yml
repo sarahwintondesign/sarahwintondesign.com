@@ -46,7 +46,7 @@ fields:
       format: markdown
 - type: field_group_list
   name: profiles
-  label: Profiles
+  label: Client Profiles
   fields:
   - type: text
     name: title
@@ -58,3 +58,6 @@ fields:
     label: URL
     config:
       required: true
+  description: Website, Facebook, etc.
+  config:
+    labelField: title
