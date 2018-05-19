@@ -2,16 +2,4 @@
 layout: default
 ---
 
-<div class="info position-relative">
-	<div class="content pin-middle-center">
-		<h1 class="logo">{{ page.title | escape }}</h1>
-		<h6 class="subheading">{{ page.subtitle | escape }}</h6>
-		{{ content }}
-	</div>
-</div>
-
-<figure class="hero">
-	<a href="{{ "/" | relative_url }}">
-		<img class="logo" src="{{ page.hero_image | relative_url }}" alt="{{ site.title | escape }} Logo">
-	</a>
-</figure>
+{{ content }}
