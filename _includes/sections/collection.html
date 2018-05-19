@@ -1,5 +1,6 @@
 <div class="row">
-  {% for item in site[include.section.collection] %}
+  {% assign collection = site[include.section.collection] | sort: "date" | reverse %}
+  {% for item in collection limit: 12 %}
   <div class="col-12 col-sm-6 col-md-4">
     <h2>{{item.title}}</h2>
     {{ item.content | markdownify }}
