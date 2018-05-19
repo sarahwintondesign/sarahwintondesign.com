@@ -22,10 +22,11 @@ fields:
   description: e.g. My story begins...
 - type: blocks
   name: sections
-  label: Page Blocks
+  label: Sections
   template_types:
   - partial-collection
   - partial-columns
+  description: The sections to include in the page
 pages:
 - index.markdown
 - 404.markdown
