@@ -1,3 +1,7 @@
-{% for item in site[include.section.collection] %}
-<p>{{item.title}}</p>
-{% endfor %}
+<div class="row">
+  {% for item in site[include.section.collection] %}
+  <div class="col-12 col-sm-6 col-md-4">
+    <p>{{item.title}}</p>
+  </div>
+  {% endfor %}
+</div>
