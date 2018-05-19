@@ -1,7 +1,8 @@
 <div class="row">
   {% for item in site[include.section.collection] %}
   <div class="col-12 col-sm-6 col-md-4">
-    <p>{{item.title}}</p>
+    <h2>{{item.title}}</h2>
+    {{ item.content | markdownify }}
   </div>
   {% endfor %}
 </div>

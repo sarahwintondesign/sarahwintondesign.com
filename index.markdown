@@ -14,7 +14,6 @@ sections:
       around the world, helping build stunning designs, and provide a creative direction
       across multiple platforms and mediums. My skills include: Websites, Branding,
       UI and UX, Graphic design, Photography, and Videography.'
-    width: '8'
   - title: Contact
     body: '[sarah@sarahwintondesign.com](mailto:sarah@sarahwintondesign.com "Email
       Me")'
