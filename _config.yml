@@ -21,13 +21,24 @@ sass:
 strict_front_matter: true
 
 # SEO
-description: Graphic Designer in Birmingham, AL
+description: Graphic Designer
+author:
+  name: Sarah Winton Design
+  twitter: sarahwinton
+# image: "/uploads/logo.png"
+# logo: "/uploads/logo.png"
+social:
+  name: Sarah Winton Design
+  links:
+  - https://twitter.com/sarahwinton
+  - https://www.facebook.com/sarahwintondesign
+  - https://www.linkedin.com/in/sarah-winton
+  - https://github.com/sarahwintondesign.com
+twitter:
+  username: sarahwinton
 
 # Collections
 collections:
-  posts:
-    title: Posts
-    output: true
   work:
     title: Work
     output: true
