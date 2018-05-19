@@ -1,1 +1,3 @@
-<p>collection html</p>
+{% for item in site[include.section.collection] %}
+<p>{{item.title}}</p>
+{% endfor %}

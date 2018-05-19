@@ -11,9 +11,9 @@ layout: default
 
     {% case section.template %}
     {% when "partial-collection" %}
-      {% include sections/collection.html %}
+      {% include sections/collection.html section=section %}
     {% when "partial-columns" %}
-      {% include sections/columns.html %}
+      {% include sections/columns.html section=section %}
     {% endcase %}
 
   {% endfor %}
