@@ -1,0 +1,33 @@
+---
+hide_body: false
+is_partial: true
+fields:
+- type: field_group_list
+  label: Columns
+  name: columns
+  fields:
+  - type: text
+    name: title
+    label: Title
+    description: The title to display
+    config:
+      required: true
+  - type: textarea
+    label: Body
+    name: body
+    description: The content to display
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+      required: true
+  - type: number
+    label: Width
+    name: width
+    config:
+      min: '1'
+      max: '12'
+      step: '1'
+      required: true
+    default: '4'
+    description: The width to apply in the 12-grid layout
