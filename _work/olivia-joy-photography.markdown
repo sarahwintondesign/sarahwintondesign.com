@@ -1,6 +1,6 @@
 ---
 title: Olivia Joy Photography
-date: 2017-10-20 00:00:00 -0500
+date: 2017-10-20 05:00:00 +0000
 subtitle: Wedding, family, and portrait photography
 profiles:
 - title: Website

@@ -1,8 +1,4 @@
 ---
-pages:
-- index.markdown
-- about.markdown
-- 404.markdown
 hide_body: false
 is_partial: false
 fields:
@@ -46,3 +42,7 @@ fields:
 - type: file
   name: hero_image
   label: Hero Image
+pages:
+- index.markdown
+- about.markdown
+- 404.markdown
