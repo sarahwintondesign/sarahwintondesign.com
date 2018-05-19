@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+<html lang={{ site.lang | default: "en" }}>
 
 <head>
   <meta charset="utf-8">
@@ -8,8 +8,8 @@
 
   <title>{{ site.title | escape }} | {{ page.title | escape }}</title>
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href={{ "/feed.xml" | relative_url }}>
+  <link rel="canonical" href={{ page.url | replace:'index.html','' | absolute_url }}>
+  <link rel="alternate" type="application/rss+xml" title={{ site.title | escape }} href={{ "/feed.xml" | relative_url }}>
 
   <link rel="icon" type="image/png" href={{ "assets/images/favicon.png" | relative_url }}>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
