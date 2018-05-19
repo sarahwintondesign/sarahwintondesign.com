@@ -7,6 +7,7 @@ sections:
 - template: partial-collection
   collection: work
   title: My Work
+  section_id: work
 - template: partial-columns
   columns:
   - title: About
@@ -14,10 +15,13 @@ sections:
       around the world, helping build stunning designs, and provide a creative direction
       across multiple platforms and mediums. My skills include: Websites, Branding,
       UI and UX, Graphic design, Photography, and Videography.'
+    width: '8'
   - title: Contact
     body: '[sarah@sarahwintondesign.com](mailto:sarah@sarahwintondesign.com "Email
       Me")'
     width: '4'
+  column_count: '2'
+  section_id: about
 ---
 
 I'm a creative, telling stories and sharing beauty.
