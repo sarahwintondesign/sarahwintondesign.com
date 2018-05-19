@@ -50,3 +50,8 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: work
+  values:
+    layout: page
