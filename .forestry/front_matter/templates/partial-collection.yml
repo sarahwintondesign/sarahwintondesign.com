@@ -1,0 +1,19 @@
+---
+hide_body: false
+is_partial: true
+fields:
+- type: select
+  name: collection
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - work
+  label: Collection
+  description: The collection to display
+  default: work
+- type: text
+  label: Title
+  name: title
+  description: Optional title displayed above the collection items
