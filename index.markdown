@@ -10,4 +10,5 @@ buttons:
 layout: home
 hero_image: "/uploads/2018/05/15/hero.jpg"
 ---
-Graphic Designer in Birmingham, AL
+
+I'm a creative, telling stories and sharing beauty.
