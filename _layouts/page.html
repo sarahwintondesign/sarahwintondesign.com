@@ -7,5 +7,16 @@ layout: default
 
   {{- content -}}
 
+  {% for section in page.sections %}
+
+    {% case section.template %}
+    {% when "partial-collection" %}
+      {% include sections/collection.html %}
+    {% when "partial-columns" %}
+      {% include sections/columns.html %}
+    {% endcase %}
+
+  {% endfor %}
+
   {% include footer.html %}
 </div>
