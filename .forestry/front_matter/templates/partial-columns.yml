@@ -2,6 +2,15 @@
 hide_body: false
 is_partial: true
 fields:
+- type: number
+  name: column_count
+  label: Column Count
+  description: The number of columns
+  config:
+    min: '1'
+    max: '3'
+    step: '1'
+    required: true
 - type: field_group_list
   label: Columns
   name: columns
@@ -26,10 +35,9 @@ fields:
     name: width
     config:
       min: '1'
-      max: '12'
+      max: '8'
       step: '1'
-      required: true
-    default: '4'
-    description: The width to apply in the 12-grid layout
+      required: false
+    description: The optional width to apply in the 12-grid layout
   config:
     labelField: title
