@@ -1,7 +1,7 @@
-{% assign menu_exp = "item.menu." | append: include.menu %}
-{% assign menu_sort = "menu." | append: include.menu | append: ".weight" %}
+{%- assign menu_exp = "item.menu." | append: include.menu -%}
+{%- assign menu_sort = "menu." | append: include.menu | append: ".weight" -%}
 
-{% assign menu_items = site.pages | where_exp:"item", menu_exp | sort: menu_sort -%}
+{%- assign menu_items = site.pages | where_exp:"item", menu_exp | sort: menu_sort -%}
 {%- assign data_menu_items = site.data.menus[include.menu] -%}
 
 {%- if data_menu_items and data_menu_items.size > 0 -%}
@@ -21,14 +21,14 @@
 
 {%- endfor -%}
 
-{% if menu_items.size == 0 %}
+{%- if menu_items.size == 0 -%}
 {%- assign menu_items = data_menu_items -%}
-{% endif %}
+{%- endif -%}
 
-{%- endif %}
+{%- endif -%}
 
-{% for item in menu_items %}
+{%- for item in menu_items %}
 <li>
-  <a href={{ item.url | escape }}>{{ item.title }}</a>
+  <a href={{ item.url | escape }}> {{ item.title }}</a>
 </li>
 {%- endfor -%}
