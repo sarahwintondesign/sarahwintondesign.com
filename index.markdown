@@ -3,7 +3,7 @@ title: Home
 position: 0
 subtitle: Telling Stories and Creating Beauty
 display_title: Sarah Winton Design
-page_blocks:
+sections:
 - template: partial-collection
   collection: work
   title: My Work

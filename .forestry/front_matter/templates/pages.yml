@@ -21,7 +21,7 @@ fields:
   default: 
   description: e.g. My story begins...
 - type: blocks
-  name: page_blocks
+  name: sections
   label: Page Blocks
   template_types:
   - partial-collection
