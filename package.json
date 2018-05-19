@@ -4,9 +4,9 @@
   "description": "Marketing Website for Sarah Winton Design",
   "scripts": {
     "copyBootstrap": "cpx \"node_modules/bootstrap/dist/js/bootstrap.min.js\" assets/js/bootstrap && cpx \"node_modules/bootstrap/dist/js/bootstrap.min.js.map\" assets/js/bootstrap && cpx \"node_modules/bootstrap/scss/**/*.scss\" _sass/bootstrap",
-    "copyjQueryJS": "cpx \"node_modules/jquery/dist/jquery.min.js\" assets/js/jquery",
-    "copyPopperJS": "cpx \"node_modules/popper.js/dist/umd/popper.min.js\" assets/js/popper && cpx \"node_modules/popper.js/dist/umd/popper.min.js.map\" assets/js/popper",
-    "copyAll": "npm run copyBootstrap && npm run copyjQueryJS && npm run copyPopperJS",
+    "copyJQuery": "cpx \"node_modules/jquery/dist/jquery.min.js\" assets/js/jquery",
+    "copyPopper": "cpx \"node_modules/popper.js/dist/umd/popper.min.js\" assets/js/popper && cpx \"node_modules/popper.js/dist/umd/popper.min.js.map\" assets/js/popper",
+    "copyAll": "npm run copyBootstrap && npm run copyJQuery && npm run copyPopper",
     "test": "bundle exec jekyll build"
   },
   "repository": {
