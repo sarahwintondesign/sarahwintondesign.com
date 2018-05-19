@@ -2,15 +2,6 @@
 hide_body: false
 is_partial: true
 fields:
-- type: number
-  name: column_count
-  label: Column Count
-  description: The number of columns
-  config:
-    min: '1'
-    max: '3'
-    step: '1'
-    required: true
 - type: field_group_list
   label: Columns
   name: columns
