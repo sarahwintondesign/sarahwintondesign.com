@@ -2,6 +2,12 @@
 hide_body: false
 is_partial: true
 fields:
+- type: text
+  label: Section ID
+  name: section_id
+  config:
+    required: true
+  description: 'The unique section used to reference in #links'
 - type: field_group_list
   label: Columns
   name: columns
