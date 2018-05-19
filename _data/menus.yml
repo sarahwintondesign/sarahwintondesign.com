@@ -1,7 +1,6 @@
 ---
 header:
-- identifier: _about
-  url: "#about"
+- url: "#about"
   weight: 2
   title: About
 - url: "#work"
