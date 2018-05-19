@@ -1,8 +1,4 @@
 ---
-pages:
-- _work/tropically-bohemian.markdown
-- _work/puttin-on-the-ritz.markdown
-- _work/olivia-joy-photography.markdown
 hide_body: false
 is_partial: false
 fields:
@@ -62,3 +58,7 @@ fields:
   description: Website, Facebook, etc.
   config:
     labelField: title
+pages:
+- _work/tropically-bohemian.markdown
+- _work/puttin-on-the-ritz.markdown
+- _work/olivia-joy-photography.markdown
