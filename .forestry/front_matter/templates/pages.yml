@@ -20,6 +20,12 @@ fields:
   hidden: false
   default: 
   description: e.g. My story begins...
+- type: blocks
+  name: page_blocks
+  label: Page Blocks
+  template_types:
+  - partial-collection
+  - partial-columns
 pages:
 - index.markdown
 - 404.markdown
