@@ -1,5 +1,5 @@
 ---
-title: Sarah Winton Design
+title: Home
 position: 0
 subtitle: Telling Stories and Creating Beauty
 buttons:
@@ -9,6 +9,7 @@ buttons:
   url: mailto:sarah@sarahwintondesign.com
 layout: home
 hero_image: "/uploads/2018/05/15/hero.jpg"
+display_title: Sarah Winton Design
 ---
 
 I'm a creative, telling stories and sharing beauty.
