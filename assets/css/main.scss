@@ -48,10 +48,8 @@ $line-height-base: 1.9;
 // Colors
 
 $body-color: {{ theme.colors.font }};
+$primary: {{ theme.colors.brand }};
 
-$link-color: $body-color;
-$link-hover-decoration: none;
-$link-hover-color: lighten($link-color, 30%);
 $link-hover-decoration: none;
 
 
