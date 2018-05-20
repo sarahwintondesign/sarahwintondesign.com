@@ -1,6 +1,8 @@
-<h2>{{ include.section.title }}</h2>
+<h2 style="margin-top: 40px;">
+  {{ include.section.title }}
+</h2>
 
-<div id={{ include.section.id }} class="row">
+<div id={{ include.section.id }} class="row" style="margin-bottom: 40px;">
   {% assign collection = site[include.section.collection] | sort: "date" | reverse %}
   {% for item in collection limit: 12 %}
   <div class="col-12 col-sm-6 col-md-4">

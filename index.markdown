@@ -11,7 +11,7 @@ sections:
 - template: partial-columns
   columns:
   - title: About
-    body: I'm Sarah, a Graphic Designer in California. I'm a creative, telling stories and sharing beauty.
+    body: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper morbi tincidunt ornare massa eget egestas purus viverra. Vehicula ipsum a arcu cursus vitae congue mauris. Quam lacus suspendisse faucibus interdum posuere lorem. Iaculis eu non diam phasellus vestibulum lorem sed.
     width: ''
   - title: Contact
     body: '[sarah@sarahwintondesign.com](mailto:sarah@sarahwintondesign.com "Email
