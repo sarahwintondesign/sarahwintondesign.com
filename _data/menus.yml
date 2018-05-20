@@ -5,6 +5,6 @@ header:
   weight: 2
   title: About
 - identifier: 
-  url: "#work"
+  url: "#portfolio"
   weight: 1
-  title: Work
+  title: Portfolio

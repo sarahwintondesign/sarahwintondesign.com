@@ -7,7 +7,7 @@ sections:
 - template: partial-collection
   collection: work
   title: Portfolio
-  id: work
+  id: portfolio
 - template: partial-columns
   columns:
   - title: About
