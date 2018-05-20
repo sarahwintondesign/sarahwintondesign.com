@@ -28,7 +28,7 @@
 {%- endif -%}
 
 {%- for item in menu_items %}
-<li class="list-inline-item">
-  <a href={{ item.url | escape }}> {{ item.title }}</a>
+<li class="nav-item">
+  <a class="nav-link active" href={{ item.url | escape }}> {{ item.title }}</a>
 </li>
 {%- endfor -%}
