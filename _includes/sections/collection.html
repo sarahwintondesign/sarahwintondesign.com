@@ -1,8 +1,10 @@
+<h2>{{ include.section.title }}</h2>
+
 <div id={{ include.section.id }} class="row">
   {% assign collection = site[include.section.collection] | sort: "date" | reverse %}
   {% for item in collection limit: 12 %}
   <div class="col-12 col-sm-6 col-md-4">
-    <h2>{{item.title}}</h2>
+    <h3>{{item.title}}</h3>
     {{ item.content | markdownify }}
   </div>
   {% endfor %}
