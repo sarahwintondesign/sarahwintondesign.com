@@ -11,11 +11,7 @@ sections:
 - template: partial-columns
   columns:
   - title: About
-    body: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ullamcorper morbi tincidunt
-      ornare massa eget egestas purus viverra. Vehicula ipsum a arcu cursus vitae
-      congue mauris. Quam lacus suspendisse faucibus interdum posuere lorem. Iaculis
-      eu non diam phasellus vestibulum lorem sed.
+    body: Hey you guys! Sarah Winton here - freelance graphic designer & creative. Logo and brand style for personal and business needs. Contact me for interest and pricing.
     width: ''
   - title: Contact
     body: '[sarah@sarahwintondesign.com](mailto:sarah@sarahwintondesign.com "Email
@@ -25,4 +21,4 @@ sections:
   id: about
 ---
 
-I'm Sarah, a Graphic Designer in California. I'm a creative, telling stories and sharing beauty. Lorem ipsum dolor sit amet.
+I'm Sarah, a Graphic Designer in California. I'm a creative, telling stories and sharing beauty.
