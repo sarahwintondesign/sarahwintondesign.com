@@ -28,7 +28,7 @@
 {%- endif -%}
 
 {%- for item in menu_items %}
-<li class="nav-item">
+<li class="nav-item" style="margin: 0 8px;">
   <a class="nav-link active" href={{ item.url | escape }}> {{ item.title }}</a>
 </li>
 {%- endfor -%}
