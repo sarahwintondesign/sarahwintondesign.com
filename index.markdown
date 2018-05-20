@@ -7,7 +7,7 @@ sections:
 - template: partial-collection
   collection: work
   title: My Work
-  section_id: work
+  id: work
 - template: partial-columns
   columns:
   - title: About
@@ -18,7 +18,7 @@ sections:
       Me")'
     width: '4'
   column_count: '2'
-  section_id: about
+  id: about
 ---
 
 I'm Sarah, a Graphic Designer in California. I'm a creative, telling stories and sharing beauty.

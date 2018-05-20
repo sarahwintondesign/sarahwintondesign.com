@@ -1,4 +1,4 @@
-<div class="row">
+<div id={{ include.section.id }} class="row">
   {% assign collection = site[include.section.collection] | sort: "date" | reverse %}
   {% for item in collection limit: 12 %}
   <div class="col-12 col-sm-6 col-md-4">

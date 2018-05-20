@@ -5,7 +5,11 @@ layout: default
 <div class="container">
   {% include header.html %}
 
-  {{- content -}}
+  <div class="row justify-content-md-center" style="text-align: center; padding: 96px 0; font-size: 2rem;">
+    <div class="col-12 col-md-8">
+      {{- content -}}
+    </div>
+  </div>
 
   {% for section in page.sections %}
 
