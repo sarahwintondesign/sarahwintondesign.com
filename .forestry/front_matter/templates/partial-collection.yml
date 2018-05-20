@@ -8,10 +8,6 @@ fields:
   description: 'The unique section used to reference in #links'
   config:
     required: true
-- type: text
-  label: Title
-  name: title
-  description: Optional title displayed above the collection items
 - type: select
   name: collection
   config:

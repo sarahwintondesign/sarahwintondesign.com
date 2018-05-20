@@ -7,18 +7,23 @@ sections:
 - template: partial-collection
   collection: work
   title: My Work
+  section_id: work
   id: work
 - template: partial-columns
   columns:
   - title: About
-    body: I'm Sarah, a Graphic Designer in California. I'm a creative, telling stories and sharing beauty.
+    body: 'I''m Amari, a Designer in Brisbane Australia. I have worked for many companies
+      around the world, helping build stunning designs, and provide a creative direction
+      across multiple platforms and mediums. My skills include: Websites, Branding,
+      UI and UX, Graphic design, Photography, and Videography.'
     width: ''
   - title: Contact
     body: '[sarah@sarahwintondesign.com](mailto:sarah@sarahwintondesign.com "Email
       Me")'
     width: '4'
   column_count: '2'
+  section_id: about
   id: about
 ---
 
-I'm Sarah, a Graphic Designer in California. I'm a creative, telling stories and sharing beauty.
+I'm a creative, telling stories and sharing beauty.
