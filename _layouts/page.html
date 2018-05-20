@@ -2,16 +2,25 @@
 layout: default
 ---
 
-<div class="info position-relative">
-	<div class="content pin-middle-center">
-		<h1 class="logo">{{ page.title | escape }}</h1>
-		<h6 class="subheading">{{ page.subtitle | escape }}</h6>
-		{{ content }}
-	</div>
-</div>
+<div class="container">
+  {% include header.html %}
 
-<figure class="hero">
-	<a href="{{ "/" | relative_url }}">
-		<img class="logo" src="{{ page.hero_image | relative_url }}" alt="{{ site.title | escape }} Logo">
-	</a>
-</figure>
+  <div class="row justify-content-md-center" style="text-align: center; padding: 128px 0; font-size: 2rem;">
+    <div class="col-12 col-md-8">
+      {{- content -}}
+    </div>
+  </div>
+
+  {% for section in page.sections %}
+
+    {% case section.template %}
+    {% when "partial-collection" %}
+      {% include sections/collection.html section=section %}
+    {% when "partial-columns" %}
+      {% include sections/columns.html section=section %}
+    {% endcase %}
+
+  {% endfor %}
+
+  {% include footer.html %}
+</div>

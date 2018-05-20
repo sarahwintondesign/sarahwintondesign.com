@@ -1,59 +1,57 @@
 ---
+# Jekyll Settings
 title: Sarah Winton Design
 timezone: America/Chicago
+url: http://sarahwintondesign.com
+baseurl: 
+# Enable once Forestry supports custom collections_dir
+# collections_dir: collections
+kramdown:
+  show_warnings: true
+lang: en
+liquid:
+  error_mode: strict
+  strict_filters: true
+  # Enable once certain jekyll extensions, like seo, support without errors
+  # strict_variables: true
+permalink: pretty
+safe: true
+sass:
+  style: compressed
+strict_front_matter: true
+
+# SEO
+description: Graphic Designer
+author:
+  name: Sarah Winton Design
+  twitter: sarahwinton
+# image: "/uploads/logo.png"
+# logo: "/uploads/logo.png"
+social:
+  name: Sarah Winton Design
+  links:
+  - https://twitter.com/sarahwinton
+  - https://www.facebook.com/sarahwintondesign
+  - https://www.linkedin.com/in/sarah-winton
+  - https://github.com/sarahwintondesign.com
+twitter:
+  username: sarahwinton
+
+# Collections
 collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
   work:
     title: Work
     output: true
+
+# Defaults for Layouts
 defaults:
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-    subtitle: 
-    hero_image: "/uploads/hero.jpg"
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/blog/:title/"
-    layout: post
-    subtitle: 
 - scope:
     path: ''
     type: work
   values:
-    subtitle: 
-    profiles:
-      website: 
-      facebook: 
-    images:
-    - 
-url: http://sarahwintondesign.com
-email: sarah@sarahwintondesign.com
-description: 'Graphic Designer in Birmingham, AL
-
-'
-google_analytics:
-  prod_key: UA-103655965-1
-  staging_key: testing
-social:
-  facebook: sarahwintondesign
-  twitter: sarahwinton
-  instagram: sarahwintondesign
-  medium: sarahwinton
-  linked-in: sarah-winton
-  github: sarahwintondesign
-baseurl: 
-markdown: kramdown
-permalink: pretty
-gems:
-- jekyll-feed
-- jekyll-redirect-from
+    layout: page
