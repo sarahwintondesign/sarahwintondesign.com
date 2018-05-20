@@ -6,7 +6,7 @@ display_title: Sarah Winton Design
 sections:
 - template: partial-collection
   collection: work
-  title: My Work
+  title: Portfolio
   id: work
 - template: partial-columns
   columns:
@@ -21,4 +21,4 @@ sections:
   id: about
 ---
 
-I'm Sarah, a Graphic Designer in California. I'm a creative, telling stories and sharing beauty.
+I'm Sarah, a Graphic Designer in California. I'm a creative, telling stories and sharing beauty. Lorem ipsum dolor sit amet.
