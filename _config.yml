@@ -2,7 +2,7 @@
 # Jekyll Settings
 title: Sarah Winton Design
 timezone: America/Chicago
-url: http://sarahwintondesign.com
+url: https://sarahwintondesign.com
 baseurl: 
 # Enable once Forestry supports custom collections_dir
 # collections_dir: collections
