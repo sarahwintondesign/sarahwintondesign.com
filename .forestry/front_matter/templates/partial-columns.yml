@@ -3,9 +3,9 @@ hide_body: false
 is_partial: true
 fields:
 - type: text
-  label: Section ID
   name: id
-  description: 'The unique section used to reference in #links'
+  label: Section ID
+  description: 'The unique section used to reference in #id-links'
   config:
     required: true
 - type: field_group_list
