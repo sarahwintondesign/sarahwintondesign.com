@@ -1,7 +1,5 @@
 ---
 title: Home
-position: 0
-subtitle: Telling Stories and Creating Beauty
 display_title: Sarah Winton Design
 sections:
 - template: partial-collection
