@@ -15,7 +15,7 @@ liquid:
   # Enable once certain jekyll extensions, like seo, support without errors
   # strict_variables: true
 permalink: pretty
-remote_theme: codytwinton/portfolio-theme@v0.5.0
+remote_theme: codytwinton/portfolio-theme@v0.6.0
 safe: true
 sass:
   style: compressed

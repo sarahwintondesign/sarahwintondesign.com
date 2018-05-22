@@ -5,7 +5,7 @@ profiles:
 - url: https://www.facebook.com/puttinontheritzcorinth/
   title: Facebook
 subtitle: A pet lover's shop
-body: ''
+description: ''
 categories: []
 images:
 - "/uploads/2018/05/20/puttin-on-the-ritz.jpg"

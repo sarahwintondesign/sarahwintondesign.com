@@ -10,10 +10,10 @@ sections:
 - template: partial-columns
   columns:
   - title: About
-    body: Hey you guys! Sarah Winton here - freelance graphic designer & creative. Logo and brand style for personal and business needs. Contact me for interest and pricing.
+    description: Hey you guys! Sarah Winton here - freelance graphic designer & creative. Logo and brand style for personal and business needs. Contact me for interest and pricing.
     width: ''
   - title: Contact
-    body: '[sarah@sarahwintondesign.com](mailto:sarah@sarahwintondesign.com "Email
+    description: '[sarah@sarahwintondesign.com](mailto:sarah@sarahwintondesign.com "Email
       Me")'
     width: '4'
   column_count: '2'
