@@ -1,4 +1,5 @@
 ---
+label: Work
 hide_body: false
 is_partial: false
 fields:
@@ -58,3 +59,7 @@ fields:
   description: Website, Facebook, etc.
   config:
     labelField: title
+pages:
+- _work/tropically-bohemian.md
+- _work/puttin-on-the-ritz.md
+- _work/olivia-joy-photography.md
