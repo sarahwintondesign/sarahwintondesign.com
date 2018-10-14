@@ -5,8 +5,8 @@ nav_menu: home
 sections:
 - template: partial-collection
   collection: work
-  title: Portfolio
-  id: portfolio
+  title: Work
+  id: work
 - template: partial-columns
   columns:
   - title: About
