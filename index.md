@@ -3,7 +3,7 @@ title: Home
 display_title: Sarah Winton Design
 nav_menu: home
 sections:
-- template: partial-collection
+- template: partial-work
   collection: work
   title: Work
   id: work
