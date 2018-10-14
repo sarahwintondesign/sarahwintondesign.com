@@ -1,14 +1,26 @@
 ---
-label: Work
+label: work
 hide_body: false
 is_partial: false
 fields:
+- type: select
+  name: type
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - github
+    - graphical
+  label: Type
+  description: Work type
+  default: github
 - name: title
-  label: Work Title
+  label: Title
   type: text
   hidden: false
   default: ''
-  description: Client/Company name
+  description: Client or project name
   config:
     required: true
 - name: subtitle
@@ -16,49 +28,53 @@ fields:
   type: text
   hidden: false
   default: 
-  description: Client/Company subtitle or description
+  description: Subtitle for the work
 - name: date
-  label: Work Date
+  label: Date
   type: datetime
   hidden: false
   default: ''
-  description: Project completion date
+  description: Work date
   config:
     time_format: " "
 - type: tag_list
   label: Categories
   name: categories
-  description: Project categories
-- type: image_gallery
-  name: images
-  label: Gallery
-  description: Project portfolio
-- type: textarea
-  name: testimonial
-  label: Testimonial
-  description: Client/Company quote or testimonial
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
+  description: Work categories
 - type: field_group_list
   name: profiles
-  label: Client Profiles
+  label: Profiles
+  description: Website, Facebook, etc.
   fields:
   - type: text
-    name: title
     label: Title
+    name: title
+    description: e.g. Facebook
     config:
       required: true
-    default: Website
   - type: text
     name: url
     label: URL
+    description: e.g. https://facebook.com
     config:
       required: true
-  description: Website, Facebook, etc.
+  - type: select
+    name: icon
+    config:
+      source:
+        type: datafiles
+        file: _data-icons-yml
+        path: icons
+      required: true
+    label: Icon
+    description: Font Awesome icon
+    default: Facebook
   config:
     labelField: title
+- type: image_gallery
+  name: images
+  label: Work Portfolio
+  description: Image gallery
 pages:
 - _work/tropically-bohemian.md
 - _work/puttin-on-the-ritz.md
