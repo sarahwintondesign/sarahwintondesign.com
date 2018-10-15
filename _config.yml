@@ -1,21 +1,25 @@
 ---
 title: Sarah Winton Design
 timezone: America/Los_Angeles
-url: https://sarahwintondesign.com
+description: 'Sarah Winton Design: Graphic Designer'
+author:
+  name: Sarah Winton Design
+  twitter: sarahwinton
 ga_tracking_id: UA-103655965-1
-baseurl: 
-kramdown:
-  show_warnings: true
+image: ''
 lang: en
-liquid:
-  error_mode: strict
-  strict_filters: true
-permalink: pretty
-remote_theme: codytwinton/portfolio-theme@v0.9.0
-safe: true
-sass:
-  style: compressed
-strict_front_matter: true
+logo: ''
+social:
+  name: Sarah Winton Design
+  links:
+  - https://twitter.com/sarahwinton
+  - https://www.facebook.com/sarahwintondesign
+  - https://www.linkedin.com/in/sarah-winton
+  - https://github.com/sarahwintondesign.com
+twitter:
+  username: sarahwinton
+url: https://sarahwintondesign.com
+baseurl: 
 collections:
   work:
     title: Work
@@ -31,22 +35,22 @@ defaults:
     type: work
   values:
     layout: page
-description: 'Sarah Winton Design: Graphic Designer'
-author:
-  name: Sarah Winton Design
-  twitter: sarahwinton
-social:
-  name: Sarah Winton Design
-  links:
-  - https://twitter.com/sarahwinton
-  - https://www.facebook.com/sarahwintondesign
-  - https://www.linkedin.com/in/sarah-winton
-  - https://github.com/sarahwintondesign.com
-twitter:
-  username: sarahwinton
+exclude:
+- README.md
+- package.json
+- package-lock.json
+kramdown:
+  show_warnings: true
+liquid:
+  error_mode: strict
+  strict_filters: true
+permalink: pretty
+remote_theme: codytwinton/portfolio-theme@v0.9.0
+safe: true
+sass:
+  style: compressed
+strict_front_matter: true
 titles_from_headings:
   enabled: false
   strip_title: false
   collections: false
-image: ''
-logo: ''
