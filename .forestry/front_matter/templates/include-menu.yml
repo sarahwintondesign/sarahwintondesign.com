@@ -1,7 +1,8 @@
 ---
-label: Menu Include
+label: Menu
 hide_body: true
 is_partial: true
+display_field: nav_menu
 fields:
 - type: select
   config:
@@ -12,3 +13,4 @@ fields:
   label: Nav Menu
   name: nav_menu
   description: The menu to display in the nav bar
+  default: home
