@@ -1,36 +1,25 @@
 ---
-# Jekyll Settings
 title: Sarah Winton Design
-timezone: America/Chicago
+timezone: America/Los_Angeles
 url: https://sarahwintondesign.com
 ga_tracking_id: UA-103655965-1
 baseurl: 
-# Enable once Forestry supports custom collections_dir
-# collections_dir: collections
 kramdown:
   show_warnings: true
 lang: en
 liquid:
   error_mode: strict
   strict_filters: true
-  # Enable once certain jekyll extensions, like seo, support without errors
-  # strict_variables: true
 permalink: pretty
 remote_theme: codytwinton/portfolio-theme@v0.9.0
 safe: true
 sass:
   style: compressed
 strict_front_matter: true
-
-
-# Collections
 collections:
   work:
     title: Work
     output: true
-
-
-# Defaults for Layouts
 defaults:
 - scope:
     path: ''
@@ -42,15 +31,10 @@ defaults:
     type: work
   values:
     layout: page
-
-
-# jekyll-seo-tag settings
-description: Graphic Designer
+description: 'Sarah Winton Design: Graphic Designer'
 author:
   name: Sarah Winton Design
   twitter: sarahwinton
-# image: "/uploads/logo.png"
-# logo: "/uploads/logo.png"
 social:
   name: Sarah Winton Design
   links:
@@ -60,9 +44,9 @@ social:
   - https://github.com/sarahwintondesign.com
 twitter:
   username: sarahwinton
-
-# jekyll-titles-from-headings
 titles_from_headings:
   enabled: false
   strip_title: false
   collections: false
+image: ''
+logo: ''
