@@ -9,5 +9,8 @@ testimonial: ''
 profiles:
 - title: Website
   url: https://tropicallybohemian.com
+  icon: Globe
+type: graphical
+
 ---
 Where tropical and mountain vibes meet faith and worldwide adventure.
