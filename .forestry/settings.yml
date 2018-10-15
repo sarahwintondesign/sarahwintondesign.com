@@ -4,6 +4,15 @@ auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
 sections:
+- type: jekyll-pages
+  label: Pages
+  create: none
+  templates:
+  - pages
+- type: jekyll-posts
+  label: Posts
+  create: none
+  hidden: true
 - type: directory
   path: _work
   label: Work
@@ -11,25 +20,17 @@ sections:
   match: "**/*"
   templates:
   - work
-- type: jekyll-posts
-  label: Posts
-  create: none
-  hidden: true
-- type: jekyll-pages
-  label: Pages
-  create: none
-- type: directory
-  path: _data
+- type: heading
   label: Information
-  create: all
-  match: "**/*"
-  exclude: "{menus,icons}.yml"
-  new_doc_ext: yml
-  templates:
-  - data-icons
-  - data-socials
-  - data-info
-  - data-theme
+- type: document
+  path: _data/info.yml
+  label: General
+- type: document
+  path: _data/socials.yml
+  label: Social Accounts
+- type: document
+  path: _data/theme.yml
+  label: Theme
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
