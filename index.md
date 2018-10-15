@@ -7,6 +7,10 @@ sections:
   collection: work
   title: Work
   id: work
+- template: partial-work
+  title: Work
+  id: work
+  works: []
 - template: partial-columns
   columns:
   - title: About
