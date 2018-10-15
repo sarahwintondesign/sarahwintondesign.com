@@ -24,6 +24,7 @@ sections:
     width: '4'
   column_count: '2'
   id: about
+  title: About
 
 ---
 I'm Sarah, a Graphic Designer in California. I'm a creative, telling stories and sharing beauty.
