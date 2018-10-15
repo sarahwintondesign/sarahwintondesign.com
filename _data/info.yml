@@ -1,5 +1,16 @@
 ---
-name: Sarah Winton
 email: sarah@sarahwintondesign.com
 company_name: Sarah Winton Design
-ga_tracking_id: UA-103655965-1
+socials:
+- title: Facebook
+  url: https://facebook.com/sarahwintondesign
+  icon: Facebook
+- title: Twitter
+  url: https://twitter.com/sarahwinton
+  icon: Twitter
+- title: Instagram
+  url: https://instagram.com/sarahwintondesign
+  icon: Instagram
+- title: LinkedIn
+  url: https://www.linkedin.com/in/sarah-winton
+  icon: LinkedIn
