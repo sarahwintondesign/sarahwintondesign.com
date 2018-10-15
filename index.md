@@ -14,13 +14,18 @@ sections:
 - template: partial-columns
   columns:
   - title: About
-    description: Hey you guys! Sarah Winton here - freelance graphic designer & creative.
-      Logo and brand style for personal and business needs. Contact me for interest
-      and pricing.
+    description: |-
+      Graphic design is my passion. Since I was young, I've been captivated by creativity and the arts. Realizing my love for design, I participated in two mentorships. Since then, I have worked as a freelance designer. I've had the opportunity to work with clients such as non-profits, brick and mortar shops, and food trucks.
+
+      I'm skilled in Adobe Illustrator, and have had experience in Adobe Photoshop and InDesign. My love for people has lead me to collaboration with others - from gathering inspiration, to designing concepts, to creating cohesive products.
+
+      As I continue my career as a designer, I desire to learn and work with others.
     width: ''
   - title: Contact
-    description: '[sarah@sarahwintondesign.com](mailto:sarah@sarahwintondesign.com
-      "Email Me")'
+    description: |-
+      [sarah@sarahwintondesign.com]()
+
+      Located in the Bay Area of California
     width: '4'
   column_count: '2'
   id: about
