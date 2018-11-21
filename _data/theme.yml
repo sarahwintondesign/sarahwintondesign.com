@@ -9,7 +9,7 @@ fonts:
     weights: 300,300i,400,400i,700,700i
     type: sans-serif
   size:
-    base: 1
+    base: 1.1
   weight:
     normal: 400
     bold: 700
