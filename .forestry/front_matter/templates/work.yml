@@ -1,20 +1,8 @@
 ---
 label: Work
 hide_body: false
-is_partial: false
+display_field: title
 fields:
-- type: select
-  name: type
-  config:
-    source:
-      type: simple
-    required: true
-    options:
-    - github
-    - graphical
-  label: Type
-  description: Work type
-  default: graphical
 - name: title
   label: Title
   type: text
