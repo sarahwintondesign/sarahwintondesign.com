@@ -19,6 +19,18 @@ fields:
   name: subtitle
   label: Subtitle
   description: e.g. My life as a spatula
+- type: select
+  config:
+    source:
+      type: documents
+      file: _data/theme.yml
+      section: theme
+      path: layouts
+    required: true
+  label: Layout
+  name: layout
+  description: The layout for the page
+  default: page
 - type: include
   name: nav_menu
   label: Nav Menu
