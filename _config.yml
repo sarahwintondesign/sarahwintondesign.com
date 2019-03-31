@@ -1,15 +1,15 @@
 ---
 title: Sarah Winton Design
 timezone: America/Los_Angeles
-description: 'Sarah Winton Design: Graphic Designer'
+description: "Sarah Winton Design: Graphic Designer"
 author:
   name: Sarah Winton Design
   twitter: sarahwinton
 favicon:
 ga_tracking_id: UA-103655965-1
-image: '/uploads/2018/10/15/logo.png'
+image: "/uploads/2018/10/15/logo.png"
 lang: en
-logo: '/uploads/2018/10/15/logo.png'
+logo: "/uploads/2018/10/15/logo.png"
 social:
   name: Sarah Winton Design
   links:
@@ -27,12 +27,12 @@ collections:
     output: true
 defaults:
   - scope:
-      path: ''
+      path: ""
       type: pages
     values:
       layout: page
   - scope:
-      path: ''
+      path: ""
       type: work
     values:
       layout: page
