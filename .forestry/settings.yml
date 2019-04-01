@@ -13,7 +13,7 @@ sections:
   - pages
 - type: directory
   path: _work
-  label: Work
+  label: Portfolio
   create: all
   match: "**/*"
   templates:
