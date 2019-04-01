@@ -1,14 +1,14 @@
 ---
 home:
-  - identifier:
-    url: "#work"
-    weight: 1
-    title: Work
-  - identifier:
-    url: "#about"
-    weight: 2
-    title: About
-  - identifier:
-    url: "#contact"
-    weight: 3
-    title: Contact
+- identifier: 
+  url: "#portfolio"
+  weight: 1
+  title: Portfolio
+- identifier: 
+  url: "#contact"
+  weight: 3
+  title: Contact
+- identifier: 
+  url: "#about"
+  weight: 2
+  title: About
