@@ -5,6 +5,7 @@ subtitle: Get Hyped
 categories: []
 images:
   - '/uploads/tropically-bohemian-1.jpg'
+  - '/uploads/tropically-bohemian-2.jpg'
 testimonial: ''
 profiles:
   - title: Website

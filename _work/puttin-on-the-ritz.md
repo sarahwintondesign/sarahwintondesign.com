@@ -10,6 +10,7 @@ description: ''
 categories: []
 images:
   - '/uploads/puttin-on-the-ritz-1.jpg'
+  - '/uploads/puttin-on-the-ritz-2.jpg'
 testimonial: ''
 type: graphical
 layout: work
