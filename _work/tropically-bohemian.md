@@ -4,7 +4,7 @@ date: 2017-08-16 15:57:00 +0000
 subtitle: Get Hyped
 categories: []
 images:
-  - '/uploads/tropically-bohemian.jpg'
+  - '/uploads/tropically-bohemian-1.jpg'
 testimonial: ''
 profiles:
   - title: Website

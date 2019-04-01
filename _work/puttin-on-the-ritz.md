@@ -9,7 +9,7 @@ subtitle: A pet lover's shop
 description: ''
 categories: []
 images:
-  - '/uploads/puttin-on-the-ritz.jpg'
+  - '/uploads/puttin-on-the-ritz-1.jpg'
 testimonial: ''
 type: graphical
 layout: work

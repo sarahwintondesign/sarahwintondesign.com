@@ -10,7 +10,7 @@ profiles:
     url: https://www.facebook.com/oliviajoyphotographybirminghamal/
     icon: Facebook
 images:
-  - '/uploads/olivia-joy-photography.png'
+  - '/uploads/olivia-joy-photography-1.png'
 categories:
   - Logo Design
 testimonial: ''
