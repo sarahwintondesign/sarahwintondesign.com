@@ -15,6 +15,7 @@ categories:
 - Logo Design
 testimonial: ''
 type: graphical
+layout: work
 
 ---
 Olivia J. Morgan is a Birmingham Wedding, Family & Portrait film-inspired photographer providing clients a custom, full-service experience.
