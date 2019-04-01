@@ -27,7 +27,7 @@ sections:
 
       As I continue my career as a designer, I desire to learn and work with others.
   - image: "/uploads/2018/10/15/profile-square.jpg"
-    title: Profile Image
+    title: ''
 layout: page
 
 ---
