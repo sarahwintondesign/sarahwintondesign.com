@@ -1,42 +1,42 @@
 ---
 title: Sarah Winton Design
 timezone: America/Los_Angeles
-description: 'Sarah Winton Design: Graphic Designer'
+description: "Sarah Winton Design: Graphic Designer"
 author:
   name: Sarah Winton Design
   twitter: sarahwinton
 copyright: Copyright © 2019 Sarah Winton Design
-favicon: "/uploads/2018/10/15/logo.svg"
+favicon: "/uploads/logo.svg"
 ga_tracking_id: UA-103655965-1
-image: "/uploads/2018/10/15/logo.png"
+image: "/uploads/logo.png"
 lang: en
-logo: "/uploads/2018/10/15/logo.png"
+logo: "/uploads/logo.png"
 social:
   name: Sarah Winton Design
   links:
-  - https://twitter.com/sarahwinton
-  - https://www.facebook.com/sarahwintondesign
-  - https://www.linkedin.com/in/sarah-winton
-  - https://github.com/sarahwintondesign.com
+    - https://twitter.com/sarahwinton
+    - https://www.facebook.com/sarahwintondesign
+    - https://www.linkedin.com/in/sarah-winton
+    - https://github.com/sarahwintondesign.com
 twitter:
   username: sarahwinton
 url: https://sarahwintondesign.com
-baseurl: 
+baseurl:
 collections:
   work:
     title: Work
     output: true
     permalink: "/portfolio/:name"
 defaults:
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
 exclude:
-- README.md
-- package.json
-- package-lock.json
+  - README.md
+  - package.json
+  - package-lock.json
 kramdown:
   show_warnings: true
 liquid:
