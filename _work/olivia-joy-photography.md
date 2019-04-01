@@ -14,7 +14,6 @@ images:
 categories:
   - Logo Design
 testimonial: ''
-type: graphical
 layout: work
 ---
 

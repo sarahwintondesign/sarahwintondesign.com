@@ -11,7 +11,6 @@ profiles:
   - title: Website
     url: https://tropicallybohemian.com
     icon: Globe
-type: graphical
 layout: work
 ---
 
