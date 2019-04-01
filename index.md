@@ -6,12 +6,13 @@ nav_menu: home
 sections:
 - template: partial-work
   collection: work
-  title: Work
-  id: work
+  title: Portfolio
+  id: portfolio
   works:
   - _work/olivia-joy-photography.md
   - _work/puttin-on-the-ritz.md
   - _work/tropically-bohemian.md
+  type: Graphical
 - template: partial-columns
   column_count: '2'
   id: about
@@ -26,6 +27,8 @@ sections:
 
       As I continue my career as a designer, I desire to learn and work with others.
   - image: "/uploads/2018/10/15/profile-square.jpg"
+    title: Profile Image
+layout: page
 
 ---
 I'm Sarah, a Graphic Designer in California. I'm a creative, telling stories and sharing beauty.
