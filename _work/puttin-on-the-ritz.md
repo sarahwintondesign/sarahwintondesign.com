@@ -12,6 +12,7 @@ images:
 - "/uploads/2018/05/20/puttin-on-the-ritz.jpg"
 testimonial: ''
 type: graphical
+layout: work
 
 ---
 Local, independently owned pet supply shop located in Downtown Corinth, Mississippi. Pets always welcome!

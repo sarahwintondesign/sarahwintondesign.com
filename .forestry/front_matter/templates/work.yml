@@ -76,6 +76,6 @@ fields:
   label: Work Portfolio
   description: Image gallery
 pages:
-- _work/olivia-joy-photography.md
 - _work/puttin-on-the-ritz.md
+- _work/olivia-joy-photography.md
 - _work/tropically-bohemian.md
