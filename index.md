@@ -21,11 +21,11 @@ sections:
   - title: Sarah Winton
     subtitle: Graphic Designer
     description: |-
-      Graphic design is my passion. Since I was young, I've been captivated by creativity and the arts. Realizing my love for design, I participated in two mentorships. Since then, I have worked as a freelance designer. I've had the opportunity to work with clients such as non-profits, brick and mortar shops, and food trucks.
+      Creativity has always been a part of my life; from sketching and painting as a kid, to discovering my love for graphic design. Now as freelance designer I have the opportunity to work with clients to create logos, complete visual identity systems, and marketing material. My passion is to create visuals that artfully and effectively achieves my clients goals, from non-profits, to brick and mortar shops, to entrepreneurs.
 
-      I'm skilled in Adobe Illustrator, and have had experience in Adobe Photoshop and InDesign. My love for people has lead me to collaboration with others - from gathering inspiration, to designing concepts, to creating cohesive products.
+      My design process begins with hearing the mission and key attributes of your business. Then I collect inspiration, sketch, and create a presentation for you. Meeting deadlines and keeping good communication is very important to me. I continue to work till the project is artfully designed and meets my clients goals.
 
-      As I continue my career as a designer, I desire to learn and work with others.
+      I would love the opportunity to hear about your design needs - let me know, and I'll schedule a FREE consultation.
   - image: "/uploads/2018/10/15/profile-square.jpg"
     title: ''
 layout: page
