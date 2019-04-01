@@ -11,6 +11,7 @@ profiles:
   url: https://tropicallybohemian.com
   icon: Globe
 type: graphical
+layout: work
 
 ---
 Where tropical and mountain vibes meet faith and worldwide adventure.
