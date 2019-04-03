@@ -17,4 +17,4 @@ images:
 published: false
 
 ---
-Tacos are my life. My soul. My everything.
+How doesn't love tacos? On this logo design project I collaborated with designer, Dawn Curtis by heading up the discovery and first draft stage of this company’s logo. A retro vibe is what this southern USA taco truck was looking for. The bright red, mustard, and black colors combined with the vintage truck, completed their simple, yet retro, branding.
