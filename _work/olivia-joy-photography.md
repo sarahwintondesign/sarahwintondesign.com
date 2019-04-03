@@ -1,20 +1,22 @@
 ---
-title: Olivia Joy Photography
+title: Meals OnCol
 date: 2017-10-20 05:00:00 +0000
-subtitle: Wedding, family, and portrait photography
+subtitle: 'Logo design and Marketing Material '
 profiles:
-  - title: Website
-    url: https://www.oliviajoyphotography.com
-    icon: Globe
-  - title: Facebook
-    url: https://www.facebook.com/oliviajoyphotographybirminghamal/
-    icon: Facebook
+- title: Website
+  url: https://www.mealsoncol.org
+  icon: Instagram
+- title: Facebook
+  url: https://www.facebook.com/oliviajoyphotographybirminghamal/
+  icon: Facebook
 images:
-  - '/uploads/olivia-joy-photography-1.png'
+- "/uploads/olivia-joy-photography-1.png"
 categories:
-  - Logo Design
+- Logo Design
 testimonial: ''
 layout: work
----
 
-Olivia J. Morgan is a Birmingham Wedding, Family & Portrait film-inspired photographer providing clients a custom, full-service experience.
+---
+Meals OnCol is a non-profit that provides support to those undergoing cancer treatment by delivering them nutritious meals. Founder Allison Litton, DrPH requested a logo that was both simple and clean in appearance. I began my process by considering the direction and key attributes of this organization. Then, I sketched multiple logo options, followed by designing vectors, and finally presenting options to the company board. I continued to work until the visual representation of this organization was complete.
+
+Once the branding was finished, I designed and printed marketing material: flyers, cards, magnets, and stationary.
