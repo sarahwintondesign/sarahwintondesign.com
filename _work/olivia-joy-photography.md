@@ -1,7 +1,7 @@
 ---
 title: Meals OnCol
 date: 2017-10-20 05:00:00 +0000
-subtitle: 'Logo design and Marketing Material '
+subtitle: 'Logo Design and Marketing Material '
 profiles:
 - title: Website
   url: https://www.mealsoncol.org
@@ -10,7 +10,10 @@ profiles:
   url: https://www.facebook.com/Meals-OnCol-252981468607841/
   icon: Facebook
 images:
-- "/uploads/olivia-joy-photography-1.png"
+- "/uploads/MealsOnColImage3.jpg"
+- "/uploads/MealsOnColImage4.jpg"
+- "/uploads/MealsOnColImage2.jpg"
+- "/uploads/MealsOnColImage1.jpg"
 categories:
 - Logo Design
 testimonial: ''
