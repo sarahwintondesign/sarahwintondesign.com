@@ -7,10 +7,10 @@ categories:
 - Logo Design
 profiles: []
 images:
+- "/uploads/MealsOnColImage1.jpg"
+- "/uploads/MealsOnColImage2.jpg"
 - "/uploads/MealsOnColImage4.jpg"
 - "/uploads/MealsOnColImage3.jpg"
-- "/uploads/MealsOnColImage2.jpg"
-- "/uploads/MealsOnColImage1.jpg"
 - "/uploads/MealsOnColImage4.ai"
 - "/uploads/MealsOnColImage3.ai"
 - "/uploads/MealsOnColImage2.ai"
