@@ -7,7 +7,7 @@ profiles:
   url: https://www.mealsoncol.org
   icon: Instagram
 - title: Facebook
-  url: https://www.facebook.com/oliviajoyphotographybirminghamal/
+  url: https://www.facebook.com/Meals-OnCol-252981468607841/
   icon: Facebook
 images:
 - "/uploads/olivia-joy-photography-1.png"
