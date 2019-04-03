@@ -6,6 +6,9 @@ date: ''
 categories:
 - Logo Design
 profiles:
+- title: Instagram
+  url: https://www.instagram.com/drivebytacos/
+  icon: Instagram
 - url: https://www.drivebytacos.com/menu
   icon: Angel List
   title: Website
