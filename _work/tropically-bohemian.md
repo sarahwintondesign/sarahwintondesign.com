@@ -1,7 +1,7 @@
 ---
 title: Tropically Bohemian
 date: 2017-08-16 15:57:00 +0000
-subtitle: Logo Design
+subtitle: Logo Design and Graphic Clothing
 categories: []
 images:
 - "/uploads/TropicallyBohemian1.jpg"
