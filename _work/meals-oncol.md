@@ -10,6 +10,7 @@ profiles:
   url: https://www.facebook.com/Meals-OnCol-252981468607841/
   icon: Facebook
 images:
+- "/uploads/meals-oncol-2.jpg"
 - "/uploads/meals-oncol-4.jpg"
 - "/uploads/meals-oncol-3.jpg"
 - "/uploads/meals-oncol-1.jpg"
