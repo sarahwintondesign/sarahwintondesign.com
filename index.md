@@ -10,7 +10,6 @@ sections:
   id: portfolio
   works:
   - _work/west-coast-organics.md
-  - _work/amber-joi.md
   - _work/meals-oncol.md
   - _work/drive-by-tacos.md
   type: Graphical
