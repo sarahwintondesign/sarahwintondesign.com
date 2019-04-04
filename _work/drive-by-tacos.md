@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Drive-by Tacos
-subtitle: ''
+subtitle: Logo Design
 date: ''
 categories:
 - Logo Design
