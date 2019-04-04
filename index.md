@@ -12,8 +12,6 @@ sections:
   - _work/amber-joi.md
   - _work/meals-oncol.md
   - _work/drive-by-tacos.md
-  - _work/puttin-on-the-ritz.md
-  - _work/olivia-joy-photography.md
   type: Graphical
   subtitle: Portfolio
 - template: partial-columns
