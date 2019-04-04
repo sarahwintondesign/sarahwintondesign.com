@@ -13,6 +13,7 @@ sections:
   - _work/puttin-on-the-ritz.md
   - _work/tropically-bohemian.md
   type: Graphical
+  subtitle: Portfolio
 - template: partial-columns
   column_count: '2'
   id: about
