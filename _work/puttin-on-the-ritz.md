@@ -8,7 +8,7 @@ profiles:
 - url: https://www.facebook.com/puttinontheritzcorinth/
   title: Facebook
   icon: Facebook
-subtitle: A pet lover's shop
+subtitle: Logo Design and Marketing Material
 description: ''
 categories: []
 images:
