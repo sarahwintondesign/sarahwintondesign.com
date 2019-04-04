@@ -14,7 +14,6 @@ sections:
   - _work/drive-by-tacos.md
   - _work/puttin-on-the-ritz.md
   - _work/olivia-joy-photography.md
-  - _work/tropically-bohemian.md
   type: Graphical
   subtitle: Portfolio
 - template: partial-columns
