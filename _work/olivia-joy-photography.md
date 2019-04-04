@@ -17,6 +17,5 @@ images:
 - "/uploads/olivia-joy-photography-3.jpg"
 - "/uploads/olivia-joy-photography-1.jpg"
 - "/uploads/olivia-joy-photography.jpg"
-published: false
 
 ---
