@@ -9,7 +9,7 @@ sections:
     title: Portfolio
     id: portfolio
     works:
-      - _work/olivia-joy-photography.md
+      - _work/meals-oncol.md
       - _work/puttin-on-the-ritz.md
       - _work/tropically-bohemian.md
     type: Graphical
