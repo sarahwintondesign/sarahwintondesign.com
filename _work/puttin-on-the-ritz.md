@@ -12,10 +12,10 @@ subtitle: Logo Design and Marketing Material
 description: ''
 categories: []
 images:
-- "/uploads/Puttin'OnTheRitz.jpg"
-- "/uploads/Puttin'OnTheRitz2.jpg"
-- "/uploads/Puttin'OnTheRitz1.jpg"
-- "/uploads/Puttin'OnTheRitz3.jpg"
+- "/uploads/puttin-on-the-ritz-1.jpg"
+- "/uploads/puttin-on-the-ritz-2.jpg"
+- "/uploads/puttin-on-the-ritz-3.jpg"
+- "/uploads/puttin-on-the-ritz-4.jpg"
 testimonial: ''
 layout: work
 

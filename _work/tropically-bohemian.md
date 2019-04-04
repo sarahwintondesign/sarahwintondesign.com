@@ -4,12 +4,11 @@ date: 2017-08-16 15:57:00 +0000
 subtitle: Logo Design and Graphic Clothing
 categories: []
 images:
-- "/uploads/TropicallyBohemian1.jpg"
-- "/uploads/TropicallyBohemian2.jpg"
-- "/uploads/TropicallyBohemian4.jpg"
-- "/uploads/TropicallyBohemian.jpg"
 - "/uploads/tropically-bohemian-1.jpg"
 - "/uploads/tropically-bohemian-2.jpg"
+- "/uploads/tropically-bohemian-3.jpg"
+- "/uploads/tropically-bohemian-4.jpg"
+- "/uploads/tropically-bohemian-5.jpg"
 testimonial: ''
 profiles:
 - title: Website
