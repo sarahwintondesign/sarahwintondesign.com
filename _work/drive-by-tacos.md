@@ -2,7 +2,7 @@
 layout: work
 title: Drive-by Tacos
 subtitle: Logo Design
-date: ''
+date: 2019-04-03 00:00:00 -0700
 categories:
 - Logo Design
 profiles:
