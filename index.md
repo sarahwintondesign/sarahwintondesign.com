@@ -1,6 +1,6 @@
 ---
 title: Home
-display_title: Sarah Winton. Graphic Designer.
+display_title: Sarah Winton.<br />Graphic Designer.
 subtitle: Welcome
 nav_menu: home
 sections:
