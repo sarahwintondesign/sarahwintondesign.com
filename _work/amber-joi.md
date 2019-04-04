@@ -16,7 +16,7 @@ images:
 - "/uploads/amber-joi-2.jpg"
 - "/uploads/amber-joi-3.jpg"
 - "/uploads/amber-joi-1.jpg"
-- "/uploads/amber-joi-2-1.jpg"
+- "/uploads/amber-joi-4.jpg"
 published: false
 
 ---
