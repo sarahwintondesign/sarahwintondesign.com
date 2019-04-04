@@ -12,10 +12,10 @@ profiles:
   url: https://emilywellsdesignnew.squarespace.com/west-coast
   icon: Angel List
 images:
-- "/uploads/west-coast-organics-3.jpg"
-- "/uploads/west-coast-organics-2.jpg"
-- "/uploads/west-coast-organics-4.jpg"
 - "/uploads/west-coast-organics-1.jpg"
+- "/uploads/west-coast-organics-4.jpg"
+- "/uploads/west-coast-organics-2.jpg"
+- "/uploads/west-coast-organics-3.jpg"
 published: false
 
 ---
