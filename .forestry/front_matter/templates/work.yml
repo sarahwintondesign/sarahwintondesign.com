@@ -76,7 +76,6 @@ fields:
   label: Work Portfolio
   description: Image gallery
 pages:
-- _work/tropically-bohemian-1.md
 - _work/tropically-bohemian.md
 - _work/drive-by-tacos.md
 - _work/puttin-on-the-ritz.md
