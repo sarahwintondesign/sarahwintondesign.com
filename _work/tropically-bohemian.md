@@ -5,9 +5,9 @@ subtitle: Get Hyped
 categories: []
 images:
 - "/uploads/TropicallyBohemian1.jpg"
-- "/uploads/TropicallyBohemian.jpg"
 - "/uploads/TropicallyBohemian2.jpg"
 - "/uploads/TropicallyBohemian4.jpg"
+- "/uploads/TropicallyBohemian.jpg"
 - "/uploads/tropically-bohemian-1.jpg"
 - "/uploads/tropically-bohemian-2.jpg"
 testimonial: ''
