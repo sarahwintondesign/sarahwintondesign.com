@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Amber Joi
-subtitle: 'Logo Design '
+subtitle: Logo Design
 date: 2019-04-03 00:00:00 -0700
 categories:
 - Logo Design
