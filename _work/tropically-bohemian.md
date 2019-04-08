@@ -15,7 +15,6 @@ profiles:
   url: https://tropicallybohemian.com
   icon: Globe
 layout: work
-published: false
 
 ---
 Where tropical and mountain vibes meet faith and worldwide adventure. Simple line art with a tropical feel was the look this travel blog needed for their branding details. My client’s goal was to create a website that would serve as a travel log, a place of purchase of urban, graphic clothing, and a home for inspirational essays. Designing with a modern and casual look, Tropically Bohemian is a place for wanderers and fashion enthusiasts.
