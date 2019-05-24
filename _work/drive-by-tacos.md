@@ -13,9 +13,9 @@ profiles:
   icon: Angel List
   title: Website
 images:
-- "/uploads/Screen Shot 2018-07-13 at 3.58.58 PM.png"
-- "/uploads/(Black Bottle)WaterBottleMockUpWebsite.jpg"
 - "/uploads/WaterBottleMockUpWebsite.jpg"
+- "/uploads/(Black Bottle)WaterBottleMockUpWebsite.jpg"
+- "/uploads/Screen Shot 2018-07-13 at 3.58.58 PM.png"
 
 ---
 Water bottles, stickers, t-shirts, oh my. Have an event in mind that you need some swag? Or how about gifts of your employees, customized with your company logo? Creating these for your business would be my pleasure - custom design solutions for your company.
