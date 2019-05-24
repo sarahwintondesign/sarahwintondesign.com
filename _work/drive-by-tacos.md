@@ -18,3 +18,5 @@ images:
 
 ---
 Water bottles, stickers, t-shirts, oh my. Have an event in mind that you need some swag? Or how about gifts of your employees, specializes with your company logo? Creating these for you business would be my pleasure - custom design solutions for your company.
+
+Here are a couple examples of promotional material created for clients 1) A custom water bottle design created for a flooring company - eco friendly and minimalist in design, this gift will be a functional gift for their company to give away. 2) Stickers for a nonprofit, used for gifting cookies for an event. 
