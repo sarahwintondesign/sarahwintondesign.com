@@ -13,11 +13,7 @@ profiles:
   icon: Angel List
   title: Website
 images:
+- "/uploads/(Black Bottle)WaterBottleMockUpWebsite.jpg"
 - "/uploads/WaterBottleMockUpWebsite.jpg"
-- "/uploads/drive-by-tacos-5.jpg"
-- "/uploads/drive-by-tacos-1.jpg"
-- "/uploads/drive-by-tacos-2.jpg"
-- "/uploads/drive-by-tacos-4.jpg"
-- "/uploads/drive-by-tacos-3.jpg"
 
 ---
