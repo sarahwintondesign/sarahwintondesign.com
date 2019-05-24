@@ -13,12 +13,11 @@ profiles:
   icon: Angel List
   title: Website
 images:
-- "/uploads/MealsOnColFridgeMockup-01.jpg"
 - "/uploads/WaterBottleMockUpWebsite.jpg"
 - "/uploads/(Black Bottle)WaterBottleMockUpWebsite.jpg"
-- "/uploads/Screen Shot 2018-07-13 at 3.58.58 PM.png"
+- "/uploads/MealsOnColFridgeMockup-01.jpg"
 
 ---
 Water bottles, stickers, t-shirts, oh my. Have an event in mind that you need some swag? Or how about gifts of your employees, customized with your company logo? Creating these for your business would be my pleasure - custom design solutions for your company.
 
-Here are a couple examples of promotional material created for clients 1) A custom water bottle design created for a flooring company - eco friendly and minimalist in design, this gift will be a functional gift for their company to give away. 2) Stickers for a nonprofit, used for gifting cookies for an event. 3) Magnets to be given away at events.
+Here are a couple examples of promotional material created for clients 1 + 2) A custom water bottle design created for a flooring company - eco friendly and minimalist in design, this gift will be a functional gift for their company to give away. 2) Magnets to be given away at events. 3) Stickers for a nonprofit, used for gifting cookies for an event.
