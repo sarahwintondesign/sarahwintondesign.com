@@ -16,6 +16,7 @@ images:
 - "/uploads/WaterBottleMockUpWebsite.jpg"
 - "/uploads/(Black Bottle)WaterBottleMockUpWebsite.jpg"
 - "/uploads/MealsOnColFridgeMockup-01.jpg"
+- "/uploads/MealsOnColCookieStickerMockup.jpg"
 
 ---
 Water bottles, stickers, t-shirts, oh my. Have an event in mind that you need some swag? Or how about gifts of your employees, customized with your company logo? Creating these for your business would be my pleasure - custom design solutions for your company.
