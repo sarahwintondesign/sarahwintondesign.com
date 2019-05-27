@@ -12,8 +12,8 @@ profiles:
   url: https://emilywellsdesignnew.squarespace.com/west-coast
   icon: Angel List
 images:
-- "/uploads/SWDBusinessCardBack-01.jpg"
 - "/uploads/SWDBusinessCardFront1-01.jpg"
+- "/uploads/SWDBusinessCardBack-01.jpg"
 - "/uploads/west-coast-organics-4.jpg"
 
 ---
