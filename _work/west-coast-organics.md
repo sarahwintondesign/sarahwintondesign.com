@@ -2,7 +2,7 @@
 layout: work
 title: Business Cards
 subtitle: Design for Print
-date: 2019-04-03T07:00:00.000+00:00
+date: 2019-04-03 00:00:00 -0700
 categories:
 - Logo Design
 - Graphic Design
