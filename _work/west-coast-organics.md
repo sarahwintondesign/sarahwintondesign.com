@@ -15,8 +15,8 @@ images:
 - "/uploads/SWDBusinessCardFront1-01.jpg"
 - "/uploads/SWDBusinessCardBack-01.jpg"
 - "/uploads/DriveByTacosBusinessCardExample-02.jpg"
+- "/uploads/WestCoastOrganicsBusinessCardExample-04.jpg"
 - "/uploads/MeetingTownBusinessCardExample-03.jpg"
-- "/uploads/west-coast-organics-4.jpg"
 
 ---
 When you've just had that lovely first introduction, who sticks around to remind that potential client that you exist (_Well, you probably know because you see the images right here, but aaaanyway_... )? That's right - business cards. The amount of power those 2x3.5 (or square!) pieces of paper carry is crazy! Business cards are all about leaving a lasting impression, being succinct, and letting people know you are here for them.
