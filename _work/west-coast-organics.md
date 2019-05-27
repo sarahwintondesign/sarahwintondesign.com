@@ -14,6 +14,8 @@ profiles:
 images:
 - "/uploads/SWDBusinessCardFront1-01.jpg"
 - "/uploads/SWDBusinessCardBack-01.jpg"
+- "/uploads/DriveByTacosBusinessCardExample-02.jpg"
+- "/uploads/MeetingTownBusinessCardExample-03.jpg"
 - "/uploads/west-coast-organics-4.jpg"
 
 ---
