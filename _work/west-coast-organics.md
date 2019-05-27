@@ -1,8 +1,8 @@
 ---
 layout: work
-title: West Coast Organics
-subtitle: Logo Design
-date: 2019-04-03 07:00:00 +0000
+title: Business Cards
+subtitle: Design for Print
+date: 2019-04-03T07:00:00.000+00:00
 categories:
 - Logo Design
 - Graphic Design
@@ -12,10 +12,8 @@ profiles:
   url: https://emilywellsdesignnew.squarespace.com/west-coast
   icon: Angel List
 images:
-- "/uploads/west-coast-organics-1.jpg"
+- "/uploads/SWDBusinessCardBack-01.jpg"
+- "/uploads/SWDBusinessCardFront1-01.jpg"
 - "/uploads/west-coast-organics-4.jpg"
-- "/uploads/west-coast-organics-2.jpg"
-- "/uploads/west-coast-organics-3.jpg"
 
 ---
-I worked as design assistant for the summer to Emily Wells, designer and brand educator. During that time I collaborated with her on The Build Your Brand Collection -  brand designs available for purchase. The brands are customizable with clients company name and color palette, and delivered ready for use in their business. For West Coast Organics, I created the logo and graphic elements. I wanted the visual aspects of this brand to feel fresh, minimalistic, and updated. I could see this brand being a great fit for a juice bar, citrus inspired product, or even a food blog.
