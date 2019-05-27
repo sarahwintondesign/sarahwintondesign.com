@@ -19,6 +19,4 @@ images:
 - "/uploads/west-coast-organics-4.jpg"
 
 ---
-When you've just had that lovely first introduction, who sticks around to remind that potential client that you exist (_Well, probably because you see the images right here, but aaaanyway_... )? That's right - business cards. Who knew the amount of power those 2x3.5 (or square!) pieces of paper carry! Business cards are all about leaving a lasting impression, being succinct, and letting people know you are here for them. 
-
-Creating a business card that is unique, leaves a lasting impression, and communicated a quality of care not found elsewhere is what Sarah Winton Design can do for you. 
+When you've just had that lovely first introduction, who sticks around to remind that potential client that you exist (_Well, you probably know because you see the images right here, but aaaanyway_... )? That's right - business cards. The amount of power those 2x3.5 (or square!) pieces of paper carry is crazy! Business cards are all about leaving a lasting impression, being succinct, and letting people know you are here for them.
