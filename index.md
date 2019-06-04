@@ -31,9 +31,15 @@ sections:
       My design process begins with hearing the mission and key attributes of your business. Then I collect inspiration, sketch, and create a presentation for you. Meeting deadlines and keeping good communication is very important to me. I continue to work till the project is artfully designed and meets my clients goals.
 
       I would love the opportunity to hear about your design needs - let me know, and I'll schedule a FREE consultation.
+    width: 
+    image: ''
   - image: "/uploads/profile-square.jpg"
     title: ''
+    subtitle: ''
+    description: ''
+    width: 
 layout: page
+published: false
 
 ---
 I'm Sarah, a Graphic Designer in California. I'm a creative, telling stories and sharing beauty.
