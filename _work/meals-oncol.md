@@ -24,7 +24,6 @@ categories:
 - Branding
 testimonial: ''
 layout: work
-published: false
 
 ---
 Visual identity creation. This is the process of taking raw ideas and dream, and creating a visual identity for your company. Logo, color palette, font choice, and graphic images. This is paramount for a company having a cohesive voice. Having a logo that articulates your company's values, is eye catching to your audience, and is artfully crafted are three aspects necessary for a quality logo.
