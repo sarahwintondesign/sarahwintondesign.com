@@ -39,7 +39,6 @@ sections:
     description: ''
     width: 
 layout: page
-published: false
 
 ---
 I'm Sarah, a Graphic Designer in California. I'm a creative, telling stories and sharing beauty.
