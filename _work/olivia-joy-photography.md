@@ -20,3 +20,4 @@ images:
 - "/uploads/MealsOnColBifold.jpg"
 
 ---
+Print material is important for any business - communicating your company's values, message, and mission in a simple and clear way. These examples are material created for a clients in financial management to a non-profit in the health and wellness sphere.
