@@ -12,6 +12,7 @@ profiles:
 images:
 - "/uploads/amber-joi-3.jpg"
 - "/uploads/puttin-on-the-ritz-1.jpg"
+- "/uploads/puttin-on-the-ritz-3.jpg"
 - "/uploads/west-coast-organics-3.jpg"
 - "/uploads/west-coast-organics-2.jpg"
 - "/uploads/west-coast-organics-5.jpg"
