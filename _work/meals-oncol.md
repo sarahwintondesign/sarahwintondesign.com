@@ -10,7 +10,11 @@ profiles:
   url: https://www.facebook.com/Meals-OnCol-252981468607841/
   icon: Facebook
 images:
-- "/uploads/meals-oncol-1.jpg"
+- "/uploads/amber-joi-3.jpg"
+- "/uploads/puttin-on-the-ritz-1.jpg"
+- "/uploads/west-coast-organics-3.jpg"
+- "/uploads/west-coast-organics-2.jpg"
+- "/uploads/west-coast-organics-5.jpg"
 - "/uploads/meals-oncol-2.jpg"
 - "/uploads/meals-oncol-4.jpg"
 categories:
