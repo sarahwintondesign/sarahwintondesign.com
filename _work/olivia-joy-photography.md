@@ -1,13 +1,14 @@
 ---
 layout: work
-title: Olivia Joy Photography
-subtitle: Logo Design
-date: 2019-04-03 07:00:00 +0000
+title: Bifold
+subtitle: Print Material for Clients
+date: 2019-04-03T07:00:00.000+00:00
 categories:
-- Logo Design
-- Handwritten Font
-- Script Font
-- Photography
+- Print Material
+- " Bifold"
+- Paper
+- " Graphic Designer"
+- Graphic Design
 profiles:
 - title: Facebook
   url: https://www.facebook.com/oliviajoyphotographybirminghamal/
