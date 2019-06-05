@@ -1,6 +1,6 @@
 ---
-title: Puttin' on the Ritz
-date: 2017-12-16 15:31:00 +0000
+title: Cards
+date: 2017-12-16T15:31:00.000+00:00
 profiles:
 - title: Instagram
   url: https://www.instagram.com/puttinontheritzcorinth/
@@ -8,14 +8,10 @@ profiles:
 - url: https://www.facebook.com/puttinontheritzcorinth/
   title: Facebook
   icon: Facebook
-subtitle: Logo Design and Marketing Material
+subtitle: Post cards, note cards and more
 description: ''
 categories: []
 images:
-- "/uploads/puttin-on-the-ritz-5.jpg"
-- "/uploads/puttin-on-the-ritz-1.jpg"
-- "/uploads/puttin-on-the-ritz-2.jpg"
-- "/uploads/puttin-on-the-ritz-3.jpg"
 - "/uploads/puttin-on-the-ritz-4.jpg"
 testimonial: ''
 layout: work
