@@ -1,6 +1,6 @@
 ---
 title: Cards
-date: 2017-12-16T15:31:00.000+00:00
+date: 2017-12-16 07:31:00 -0800
 profiles:
 - title: Instagram
   url: https://www.instagram.com/puttinontheritzcorinth/
@@ -17,4 +17,4 @@ testimonial: ''
 layout: work
 
 ---
-Postcards are simple, a bit more information, and a fun size to pique someones interest without overwhelm of information. Some examples below 1) Sarah Winton Design postcard for clients. 2) This independently owned pet-supply shop wanted a vintage feel for their southern USA location. The beagle design used in branding is based off of the owner, Sarah Vanderford’s very own dog, and store’s namesake, Ritz.
+Postcards are simple, a bit more information, and a fun size to pique someones interest without overwhelm of information. Some examples below 1) Sarah Winton Design postcard for clients. 2) Pet-supply shop with a vintage feel for their southern USA location - complete with a beagle design used in branding is based off of the owner, Sarah Vanderford’s very own dog, and store’s namesake, Ritz.
