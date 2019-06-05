@@ -17,6 +17,7 @@ images:
 - "/uploads/puttin-on-the-ritz-4.jpg"
 testimonial: ''
 layout: work
+published: false
 
 ---
 Postcards are simple, a bit more information, and a fun size to pique someones interest without overwhelm of information. Some examples below 1) Sarah Winton Design postcard for clients. 2) Health and wellness non-profit needed a postcard to spread the word about the services they offered  3) Pet-supply shop with a vintage feel for their southern USA location - complete with a beagle design used in branding is based off of the owners pup.
