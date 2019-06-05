@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Bifold
+title: Brochures
 subtitle: Print Material for Clients
 date: 2019-04-03T07:00:00.000+00:00
 categories:
