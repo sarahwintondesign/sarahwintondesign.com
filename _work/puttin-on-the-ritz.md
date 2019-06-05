@@ -17,4 +17,4 @@ testimonial: ''
 layout: work
 
 ---
-This independently owned pet-supply shop wanted a vintage feel for their southern USA location. The beagle design used in branding is based off of the owner, Sarah Vanderford’s very own dog, and store’s namesake, Ritz.
+Postcards are simple, a bit more information, and a fun size to pique someones interest without overwhelm of information. Some examples below 1) Sarah Winton Design postcard for clients. 2) This independently owned pet-supply shop wanted a vintage feel for their southern USA location. The beagle design used in branding is based off of the owner, Sarah Vanderford’s very own dog, and store’s namesake, Ritz.
