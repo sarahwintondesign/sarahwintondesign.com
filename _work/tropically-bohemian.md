@@ -1,14 +1,14 @@
 ---
-title: Tropically Bohemian
-date: 2017-08-16 15:57:00 +0000
-subtitle: Logo Design and Graphic Clothing
-categories: []
+title: Stickers
+date: 2017-08-16T15:57:00.000+00:00
+subtitle: Custom Stickers for Your Next Event
+categories:
+- Stickers
+- Print Material
+- Marketing Material
+- Die Cut
 images:
-- "/uploads/tropically-bohemian-1.jpg"
-- "/uploads/tropically-bohemian-2.jpg"
-- "/uploads/tropically-bohemian-3.jpg"
-- "/uploads/tropically-bohemian-4.jpg"
-- "/uploads/tropically-bohemian-5.jpg"
+- "/uploads/OptionTwo.jpg"
 testimonial: ''
 profiles:
 - title: Website
@@ -17,4 +17,4 @@ profiles:
 layout: work
 
 ---
-Where tropical and mountain vibes meet faith and worldwide adventure. Simple line art with a tropical feel was the look this travel blog needed for their branding details. My client’s goal was to create a website that would serve as a travel log, a place of purchase of urban, graphic clothing, and a home for inspirational essays. Designing with a modern and casual look, Tropically Bohemian is a place for wanderers and fashion enthusiasts.
+Stickers are fun and functional - from packaging, to laptops, to gifts for clients. 
