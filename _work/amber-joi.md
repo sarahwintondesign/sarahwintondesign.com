@@ -19,4 +19,4 @@ images:
 - "/uploads/amber-joi-4.jpg"
 
 ---
-Social media content is in high demand! Providing material to clients that is custom, eye catching, and has a quick project turn around is a way Sarah Winton Design can support your cohesive business identity on the social networks.
+Social media content is in high demand! Providing material to clients that is custom, eye catching, and has a quick project turn around is a way Sarah Winton Design can support your cohesive business identity for you on the social networks.
