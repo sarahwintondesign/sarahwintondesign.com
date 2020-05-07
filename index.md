@@ -39,7 +39,6 @@ sections:
     description: ''
     width: 
 layout: page
-published: false
 
 ---
 I'm Sarah, a graphic designer in California. I'm a creative who designs logos & marketing material to help companies grow.
