@@ -32,7 +32,7 @@ sections:
 
       I would love the opportunity to hear about your design needs - let me know, and I'll schedule a FREE consultation.
     width: 
-    image: ''
+    image: "/uploads/IMG_6325.jpg"
   - image: "/uploads/profile-square.jpg"
     title: ''
     subtitle: ''
