@@ -13,6 +13,7 @@ profiles:
   url: https://www.instagram.com/amberjoibhm/
   icon: Instagram
 images:
+- "/uploads/BlackSocialMediaPostSWD-01.jpg"
 - "/uploads/FacebookTrialAdforHousekeep.jpg"
 - "/uploads/InstagramHousekeepTrialMockup.jpg"
 
