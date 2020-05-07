@@ -14,7 +14,7 @@ profiles:
   url: https://www.facebook.com/oliviajoyphotographybirminghamal/
   icon: Facebook
 images:
-- "/uploads/SmallCardSWD-01-2.jpg"
+- "/uploads/NewerSmallCardSWD-01.jpg"
 - "/uploads/BifoldSolutionsWealth.jpg"
 - "/uploads/BifoldCoverSolutionsWealth.jpg"
 - "/uploads/MealsOnColBifoldfrontandback.jpg"
