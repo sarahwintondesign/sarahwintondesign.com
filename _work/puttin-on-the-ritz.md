@@ -12,7 +12,6 @@ subtitle: Post cards, note cards and more
 description: ''
 categories: []
 images:
-- "/uploads/SmallCardSWD-01.jpg"
 - "/uploads/SmallCardMealsOnCol.jpg"
 - "/uploads/puttin-on-the-ritz-4.jpg"
 testimonial: ''
