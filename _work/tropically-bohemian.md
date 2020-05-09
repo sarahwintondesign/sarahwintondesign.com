@@ -11,6 +11,7 @@ profiles:
   url: https://tropicallybohemian.com
   icon: Globe
 layout: work
+published: false
 
 ---
 Creating the re-brand for San Francisco based company, AO Makeup Co. was highlight for summer 2019. 
