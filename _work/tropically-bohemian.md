@@ -1,14 +1,10 @@
 ---
-title: Stickers
+title: Logo Design
 date: 2017-08-16T15:57:00.000+00:00
-subtitle: Custom Stickers for Your Next Event
-categories:
-- Stickers
-- Print Material
-- Marketing Material
-- Die Cut
+subtitle: Modern, Natural, Simple
+categories: []
 images:
-- "/uploads/OptionTwo.jpg"
+- "/uploads/AOMain-01.jpg"
 testimonial: ''
 profiles:
 - title: Website
@@ -17,4 +13,4 @@ profiles:
 layout: work
 
 ---
-Stickers are fun and functional - from packaging, to laptops, to gifts for clients. 
+Creating the re-brand for San Francisco based company, AO Makeup Co. was highlight for summer 2019. 
