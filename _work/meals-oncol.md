@@ -12,6 +12,8 @@ profiles:
 images:
 - "/uploads/amberjoi-01.jpg"
 - "/uploads/amber-joi-3.jpg"
+- "/uploads/amber-joi-1.jpg"
+- "/uploads/amber-joi-4.jpg"
 categories:
 - Logo Design
 - Branding
