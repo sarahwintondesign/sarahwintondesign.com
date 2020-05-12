@@ -13,8 +13,8 @@ profiles:
   icon: Angel List
   title: Website
 images:
-- "/uploads/WaterBottleMockUpWebsite.jpg"
 - "/uploads/(Black Bottle)WaterBottleMockUpWebsite.jpg"
+- "/uploads/WaterBottleMockUpWebsite.jpg"
 - "/uploads/MealsOnColFridgeMockup-01.jpg"
 - "/uploads/MealsOnColCookieStickerMockup.jpg"
 
