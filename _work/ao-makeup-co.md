@@ -13,4 +13,4 @@ images:
 - "/uploads/AOpagesforWebsite-03.jpg"
 
 ---
-Creating the re-brand for San Francisco based company, AO Makeup Co. was highlight for summer 2019. They offer services from lash extensions to red carpet makeovers. Providing quality services to the Bay area since 2016.
+Creating the re-brand for San Francisco based company, [AO Makeup Co. ](https://www.aomakeupco.com)was a delight. Working with [Polygon Market](https://polygonmarket.com) to offer this rebrand to business owner Adela was such a highlight. AO Makeup Co. offers services from lash extensions to red carpet makeovers. They have providing quality services to the Bay area since 2016.
