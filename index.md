@@ -9,13 +9,12 @@ sections:
   title: Portfolio
   id: portfolio
   works:
+  - _work/meals-oncol.md
   - _work/ao-makeup-co.md
   - _work/west-coast-organics.md
   - _work/drive-by-tacos.md
   - _work/amber-joi.md
-  - _work/meals-oncol.md
   - _work/olivia-joy-photography.md
-  - _work/tropically-bohemian.md
   type: Graphical
   subtitle: Portfolio
 - template: partial-columns
