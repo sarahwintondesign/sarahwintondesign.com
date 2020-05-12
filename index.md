@@ -1,6 +1,7 @@
 ---
 title: Home
-display_title: Sarah Winton.<br />Graphic Designer.
+display_title: Sarah Winton.<br />I'm Sarah, a graphic designer in California. I'm
+  a creative who designs logos & marketing material to help companies grow.
 subtitle: Welcome
 nav_menu: home
 sections:
