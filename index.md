@@ -37,6 +37,12 @@ sections:
     subtitle: ''
     description: ''
     width: 
+- template: partial-work
+  type: Graphical
+  id: work
+  title: What I Do
+  subtitle: ''
+  works: []
 layout: page
 
 ---
