@@ -12,13 +12,6 @@ profiles:
 images:
 - "/uploads/amberjoi-01.jpg"
 - "/uploads/amber-joi-3.jpg"
-- "/uploads/puttin-on-the-ritz-1.jpg"
-- "/uploads/puttin-on-the-ritz-3.jpg"
-- "/uploads/west-coast-organics-3.jpg"
-- "/uploads/west-coast-organics-2.jpg"
-- "/uploads/west-coast-organics-5.jpg"
-- "/uploads/meals-oncol-2.jpg"
-- "/uploads/meals-oncol-4.jpg"
 categories:
 - Logo Design
 - Branding
@@ -26,6 +19,4 @@ testimonial: ''
 layout: work
 
 ---
-Visual identity creation. This is the process of taking raw ideas and dream, and creating a visual identity for your company. Logo, color palette, font choice, and graphic images. This is paramount for a company having a cohesive voice. Having a logo that articulates your company's values, is eye catching to your audience, and is artfully crafted are three aspects necessary for a quality logo.
-
-The visual identity process begins with hearing the mission and key attributes of your business. Then I collect inspiration, sketch, and create a presentation for you. Three presentations will be sent, with revisions welcome after each one. Meeting deadlines and keeping good communication is very important to me. I continue to work till the project is artfully designed and meets my clients goals. Anticipate 5-7 weeks from start to finish for your newly custom designed logo to be in your hands.
+Amber Joi - a modern, edgy, monogram. This was created while participating in a design internship with mentor Dawn Cutis. Some of the major areas of focus that were learning during this time was implementing creative direction and learning design software. This logo is still one of my favorite, and it was when I truly started encountering my signature style - b/w, sharp edges, and simplicity.
