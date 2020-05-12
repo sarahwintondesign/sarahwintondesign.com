@@ -1,7 +1,6 @@
 ---
 title: Home
-display_title: Sarah Winton.<br />Graphic Designer who Creates Logo Design and Marketing
-  Material.
+display_title: Sarah Winton.<br />Graphic Designer.
 subtitle: Welcome
 nav_menu: ''
 sections:
