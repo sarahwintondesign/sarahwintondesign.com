@@ -3,7 +3,7 @@ title: Home
 display_title: Sarah Winton.<br />Graphic Designer who Creates Logo Design and Marketing
   Material.
 subtitle: Welcome
-nav_menu: home
+nav_menu: ''
 sections:
 - template: partial-work
   collection: work
@@ -38,7 +38,7 @@ sections:
     subtitle: ''
     description: ''
     width: 
-layout: work
+layout: page
 
 ---
 I'm Sarah, a graphic designer in California. I'm a creative who designs logos & marketing material to help companies grow.
