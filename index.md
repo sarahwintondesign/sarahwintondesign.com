@@ -37,6 +37,10 @@ sections:
     subtitle: ''
     description: ''
     width: 
+- template: partial-columns
+  id: Welcome
+  title: Welcome
+  columns: []
 layout: page
 
 ---
