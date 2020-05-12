@@ -1,7 +1,7 @@
 ---
-title: Logo Design
-date: 2017-10-20T05:00:00.000+00:00
-subtitle: Branding
+title: Amber Joi
+date: 0001-12-31 16:06:04 -0752
+subtitle: Edgy Monogram and Logo
 profiles:
 - title: Website
   url: https://www.mealsoncol.org
