@@ -43,7 +43,7 @@ sections:
   title: What I Do
   subtitle: ''
   works: []
-layout: page
+layout: work
 
 ---
 I'm Sarah, a graphic designer in California. I'm a creative who designs logos & marketing material to help companies grow.
