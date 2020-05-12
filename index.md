@@ -2,7 +2,7 @@
 title: Home
 display_title: I'm Sarah Winton. Graphic Designer and Logo Creator.
 subtitle: Welcome
-nav_menu: ''
+nav_menu: home
 sections:
 - template: partial-work
   collection: work
