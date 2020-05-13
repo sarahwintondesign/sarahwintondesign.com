@@ -9,6 +9,9 @@ sections:
   title: Portfolio
   id: portfolio
   works:
+  - _work/cultivating-literacy.md
+  - _work/meals-oncol-1.md
+  - _work/graceteens.md
   - _work/ao-makeup-co.md
   - _work/west-coast-organics.md
   - _work/drive-by-tacos.md
