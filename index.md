@@ -12,10 +12,10 @@ sections:
   - _work/west-coast-organics.md
   - _work/cultivating-literacy.md
   - _work/meals-oncol-1.md
+  - _work/meals-oncol.md
   - _work/graceteens.md
   - _work/ao-makeup-co.md
   - _work/drive-by-tacos.md
-  - _work/meals-oncol.md
   - _work/amber-joi.md
   - _work/olivia-joy-photography.md
   type: Graphical
