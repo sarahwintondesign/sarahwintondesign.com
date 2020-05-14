@@ -14,3 +14,4 @@ images:
 - "/uploads/GraceTeensportfolio-02.jpg"
 
 ---
+Grace and gospel are at the heart of this ministry. Being an authentic community thatwill join each other on their journey towards God, is what they are all about. The lookand feel of the GraceTeens visual branding is simple and casual.
