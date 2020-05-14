@@ -12,3 +12,4 @@ images:
 - "/uploads/CultivatingLiteracyportfolio-02.jpg"
 
 ---
+Cultivating Literacy is a team of educational and literacy professionals who partner with families of children in the Santa Clara, California area who have difficulties in reading and writing. It was a honor to work with this non-profit to create the brand identity for their important work.
