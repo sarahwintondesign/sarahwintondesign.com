@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Cultivating Literacy
-subtitle: 'A non-profit that provides reading assistance for children '
+subtitle: An Educational Non-Profit
 date: 0004-12-31 16:06:04 -0752
 categories: []
 profiles: []
